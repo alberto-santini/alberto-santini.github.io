@@ -4,5 +4,6 @@ layout: default
 
 <div class="entry">
     {% assign index = true %}
-    {% markdown main.md %}
+    {% capture my-include %}{% include test.md %}{% endcapture %}
+    {{ my-include | markdownify }}
 </div>
