@@ -148,18 +148,30 @@ em {
 }
 
 @media all and (max-width: 550px) {
-    #site-title img {
-        width: 25px;
+    #site-title nav a {
+        display:block;
+        padding: 15px 0 15px 0;
     }
+    
+    .main .pic {
+        display: none;
+    }
+    
+    .main ul li {
+        padding: 15px 0 15px 0;
+    }
+    
     .wrapper {
         padding-left: 15px;
         padding-right: 15px;
     }
+    
     .main h1 {
         font-size: 28px;
         line-height: 30px;
         margin-bottom: 7px;
     }
+    
     .main h2 {
         font-size: 22px;
         line-height: 24px;
