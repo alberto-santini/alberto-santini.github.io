@@ -1,0 +1,21 @@
+title: Alberto Santini
+
+author: Alberto Santini
+author_avatar: images/profile.jpg
+
+email: a.santini@unibo.it
+
+description: Personal page of Alberto Santini.
+
+baseurl: ""
+url: "https://alberto-santini.github.io"
+
+github_username: alberto-santini
+github_repo: alberto-santini/alberto-santini.github.io
+
+markdown: kramdown
+permalink: pretty
+excerpt_separator: ""
+
+gems:
+  - jekyll-sitemap

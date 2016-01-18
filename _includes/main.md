@@ -1,0 +1,56 @@
+# About and contacts
+
+<div class="pic">
+    <img src="images/profile.jpg" alt="That's me!" height="120px"/>
+</div>
+
+I am a PhD student in Operational Research at the University of Bologna. I can be reached via email at [`a.santini@unibo.it`](mailto:a.santini@unibo.it).
+
+<br/>
+
+* [Curriculum Vitæ](http://santini.in/files/cv.pdf)
+* Github: [alberto-santini](https://github.com/alberto-santini/) (personal) and [OR-Bologna](https://github.com/OR-Bologna) (university)
+* Twitter: [alberto\_santini](https://twitter.com/alberto_santini) (personal) and [OR\_Unibo](https://twitter.com/OR_Unibo) (university).
+* LinkedIn: [albertosantini](https://it.linkedin.com/in/albertosantini)
+
+# Slides and other material
+
+## Slides
+
+* Recent trends in OR and practical business applications ([pdf](http://santini.in/files/slides/aua-slides.pdf)). Seminar at the American University of Armenia in 2014.
+* Data envelopment analysis ([pdf](http://santini.in/files/slides/dea-slides.pdf)). Seminar at the University of Bologna in 2014.
+* A maritime version of the Travelling Salesman Problem ([pdf](http://santini.in/files/slides/odysseus15-slides.pdf)). Seminar at the Odysseus 2015 conference.
+
+## Templates
+
+* OR@Unibo Technical Reports [LaTeX template](https://github.com/OR-Bologna/tech-report-template).
+* OR@Unibo Slides [Beamer template](https://github.com/OR-Bologna/beamer-template).
+
+# OR Seminars
+
+I organise a series of seminars/webinars targeted especially at PhD students and young researchers.
+
+The link to follow the live webinars and interact with the presenter is [here](http://webconference.unibo.it/or-seminar).
+
+## Upcoming
+
+Date | Speaker | Affiliation | Topic 
+:----|:--------|:------------|:------
+21/01/2016 15:30 | **Georg Brandstätter** | University of Vienna | ILP formulations for finding optimal locations for charging stations in an electric car sharing network
+11/02/2016 15:30 | **Filippo Masini** | University of Bologna | TBA
+05/05/2016 15:30 | **Alessandra Berto** | Tor Vergata University of Rome and Trenitalia | TBA
+
+## Past
+
+Below you can find a list of past seminars, held during the spring of 2015. Slides and recordings are available for some of them.
+
+<br/>
+
+Date | Speaker | Affiliation | Topic | Downloads
+:----|:--------|:------------|:------|:---------
+29/01/2015 | **Alberto Santini** | University of Bologna | A rich variant of the TSP with Pickups and Deliveries |
+26/02/2015 | **Jonas Schweiger** | ZIB Berlin and IBM | Max clique cuts for standard quadratic programs | [Recording](http://santini.in/files/seminars/spring-2015/js_video.flv)
+26/03/2015 | **Maxence Delorme** | University of Bologna | 1- and 2-dimensional packing problems | [Slides](http://santini.in/files/seminars/spring-2015/md_slides.pdf)  [Recordings](http://santini.in/files/seminars/spring-2015/md_video.flv)
+30/04/2015 | **Sven Wiese** | University of Bologna and IBM | Deriving intersection cuts from wide split disjunctions | [Slides](http://santini.in/files/seminars/spring-2015/sw_slides.pdf)  [Recording](http://santini.in/files/seminars/spring-2015/sw_video.flv)
+21/05/2015 | **Bruno Petrato Bruck** | University of Modena and Reggio Emilia | Non-elementary formulations for the single Vehicle Routing Problem with deliveries and selective pickups | [Slides](http://santini.in/files/seminars/spring-2015/bpb_slides.pdf)
+25/06/2015 | **Veronica Dal Sasso** | University of Padova | A column generation approach for Pure Parsimony Haplotyping | [Slides](http://santini.in/files/seminars/spring-2015/vds_slides.pdf)  [Recording](http://santini.in/files/seminars/spring-2015/vds_video.flv)
