@@ -4,7 +4,5 @@ layout: default
 
 {% assign index = true %}
 {% for post in site.posts limit 1 %}
-    <div class="entry">
-        {{ post.content }}
-    </div>
+    {{ post.content }}
 {% endfor %}

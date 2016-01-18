@@ -39,7 +39,7 @@ em {
 }
 
 #main-header {
-    padding-bottom: 25px;
+    padding-bottom: 15px;
     border-bottom: 2px solid black;
     margin: 40px auto 0 auto;
 }
@@ -61,16 +61,28 @@ em {
     font-size: 24px;
 }
 
+#site-title nav {
+    margin-top: 15px;
+    border-top: 2px solid black;
+    width: 100%;
+    padding: 15px 0 0 0;
+}
+
+#site-title nav a {
+    margin-right: 15px;
+    font-size: 12px;
+}
+
 #content {
     margin: 40px 0 0 0;
 }
 
-.entry {
+.main {
     overflow: auto;
     margin: 0 0 35px 0;
 }
 
-.entry h1 {
+.main h1 {
     font-size: 24px;
     line-height: 30px;
     margin-top: 30px;
@@ -80,43 +92,43 @@ em {
     background-color: black;
 }
 
-.entry h2 {
+.main h2 {
     font-size: 20px;
     line-height: 24px;
     margin-top: 15px;
     margin-bottom: 15px;
 }
 
-.entry ul li {
+.main ul li {
     display: block;
     list-style-type: none;
 }
 
-.entry strong {
+.main strong {
     font-weight: bold;
 }
 
-.entry table {
+.main table {
     border-collapse: separate;
     border-spacing: 10px 0px;
 }
 
-.entry table thead th {
+.main table thead th {
     font-size: 18px;
     padding-bottom: 10px;
     border-bottom: 1px solid #ddd;
 }
 
-.entry table tbody tr td {
+.main table tbody tr td {
     padding-bottom: 10px;
     vertical-align: top;
 }
 
-.entry table tbody tr:first-child td {
+.main table tbody tr:first-child td {
     padding-top: 10px;
 }
 
-.entry .pic {
+.main .pic {
     float: left;
     margin-right: 30px;
 }
@@ -129,12 +141,12 @@ em {
         padding-left: 15px;
         padding-right: 15px;
     }
-    .entry h1 {
+    .main h1 {
         font-size: 28px;
         line-height: 30px;
         margin-bottom: 7px;
     }
-    .entry h2 {
+    .main h2 {
         font-size: 22px;
         line-height: 24px;
         margin-bottom: 7px;
