@@ -2,8 +2,9 @@
 layout: default
 ---
 
-<div class="entry">
-    {% assign index = true %}
-    {% capture my-include %}{% include main.md %}{% endcapture %}
-    {{ my-include | markdownify }}
-</div>
+{% assign index = true %}
+{% for post in site.posts limit 1 %}
+    <div class="entry">
+        {{ post.content }}
+    </div>
+{% endfor %}
