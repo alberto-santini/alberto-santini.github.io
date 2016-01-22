@@ -23,7 +23,6 @@ Dates and times are CET (Central European Time).
 
 Date | Speaker | Affiliation | Topic 
 :----|:--------|:------------|:------
-21/01/2016 15:30 | **Georg Brandstätter** | University of Vienna | ILP formulations for finding optimal locations for charging stations in an electric car sharing network
 01/02/2016 11:30 | **Emiliano Traversi** | University of Paris 13 | Application of Dantzig-Wolfe Reformulation to Binary Quadratic Problems
 11/02/2016 15:30 | **Filippo Masini** | University of Bologna | TBD (Broad topic: relocation algorithms for electric car sharing networks)
 21/04/2016 15:30 | **Andrea Peano** | University of Ferrara | TBD
@@ -33,7 +32,13 @@ Date | Speaker | Affiliation | Topic
 
 Below you can find a list of past seminars. Slides and recordings are available for some of them.
 
-<br/>
+### 2016
+
+Date | Speaker | Affiliation | Topic |  |
+:----|:--------|:------------|:------|:-|:-
+21/01/2016 | **Georg Brandstätter** | University of Vienna | ILP formulations for finding optimal locations for charging stations in an electric car sharing network | [Slides](http://santini.in/files/seminars/spring-2016/gb_slides.pdf) | [Rec](http://santini.in/files/seminars/spring-2016/gb_video.mp4)
+
+### 2015
 
 Date | Speaker | Affiliation | Topic |  |
 :----|:--------|:------------|:------|:-|:-
