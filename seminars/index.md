@@ -4,7 +4,9 @@ layout: default
 
 # OR Seminars
 
-I organise a series of seminars/webinars, with the aim to increase the exposure of PhD students and young researchers, foster cross-fertilisation between different fields of OR, and provide a friendly environment to discuss and receive feedback.
+<img src="/images/euro.png" alt="EURO Logo" class="euro-logo"/>
+
+I organise a series of seminars/webinars, with the aim to increase the exposure of PhD students and young researchers, foster cross-fertilisation between different fields of OR, and provide a friendly environment to discuss and receive feedback. The seminars are officially sponsored by the Association of European Operational Research Societies (EURO).
 
 <br/>
 

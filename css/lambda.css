@@ -154,6 +154,12 @@ em {
     text-align: center;
 }
 
+.main .euro-logo {
+    float: left;
+    margin: 5px 30px 15px 0px;
+    width: 200px;
+}
+
 @media all and (max-width: 550px) {
     #site-title nav a {
         display:block;
@@ -183,5 +189,18 @@ em {
         font-size: 22px;
         line-height: 24px;
         margin-bottom: 7px;
+    }
+
+    .main h3 {
+        font-size: 16px;
+        line-height: 18px;
+        margin-bottom: 7px;
+    }
+    
+    .main .euro-logo {
+        display: block;
+        float: none;
+        margin: 15px 0;
+        width: 200px;
     }
 }
