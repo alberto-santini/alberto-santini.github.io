@@ -10,7 +10,7 @@ I organise a series of seminars/webinars, with the aim to increase the exposure 
 
 <br/>
 
-The seminars are held at the [University of Bologna](http://www.dei.unibo.it/), but are streamed live to allow the participation of researchers and practitioners from all over the world. The streaming platform also allows the internet audience to interact with the presenter and ask questions via chat or microphone.
+The seminars are held at the [University of Bologna](http://www.dei.unibo.it/), but streamed live to allow the participation of researchers and practitioners from all over the world. The streaming platform also allows the internet audience to interact with the presenter and ask questions via chat or microphone.
 
 <div class="important">
     The URL to follow the live webinars and interact with the presenter is: <br/>
