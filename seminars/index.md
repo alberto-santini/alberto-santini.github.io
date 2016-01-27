@@ -26,7 +26,7 @@ Dates and times are CET (Central European Time).
 Date | Speaker | Affiliation | Topic 
 :----|:--------|:------------|:------
 01/02/2016 11:30 | **Emiliano Traversi** | University of Paris 13 | Application of Dantzig-Wolfe Reformulation to Binary Quadratic Problems
-11/02/2016 15:30 | **Filippo Masini** | University of Bologna | TBD (Broad topic: relocation algorithms for electric car sharing networks)
+11/02/2016 15:30 | **Filippo Masini** | University of Bologna | Exact Algorithms for Operational Management of Station-Based Electric Car Sharing Systems
 21/04/2016 15:30 | **Andrea Peano** | University of Ferrara | TBD
 05/05/2016 15:30 | **Alessandra Berto** | Tor Vergata University of Rome and Trenitalia | TBD
 
