@@ -29,6 +29,7 @@ Date | Speaker | Affiliation | Topic
 11/02/2016 15:30 | **Filippo Masini** | University of Bologna | Exact Algorithms for Operational Management of Station-Based Electric Car Sharing Systems
 21/04/2016 15:30 | **Andrea Peano** | University of Ferrara | TBD
 05/05/2016 15:30 | **Alessandra Berto** | Tor Vergata University of Rome and Trenitalia | TBD
+12/05/2016 15:30 | **Francesca Maggioni** | University of Bergamo | TBD (Broad topic: stochastic programming)
 
 ## Past
 
