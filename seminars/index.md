@@ -27,7 +27,7 @@ Date | Speaker | Affiliation | Topic
 :----|:--------|:------------|:------
 01/02/2016 11:30 | **Emiliano Traversi** | University of Paris 13 | Application of Dantzig-Wolfe Reformulation to Binary Quadratic Problems
 11/02/2016 15:30 | **Filippo Masini** | University of Bologna | Exact Algorithms for Operational Management of Station-Based Electric Car Sharing Systems
-07/04/2016 15:30 | **Arthur Kramer** | University of Modena and Reggio Emilia | Efficient Local Search Algorithms for Scheduling Problems
+31/03/2016 15:30 | **Arthur Kramer** | University of Modena and Reggio Emilia | A Local Search Based Metaheuristic for a Class of Earliness and Tardiness Scheduling Problems
 21/04/2016 15:30 | **Andrea Peano** | University of Ferrara | TBD
 05/05/2016 15:30 | **Alessandra Berto** | Tor Vergata University of Rome and Trenitalia | TBD
 12/05/2016 15:30 | **Francesca Maggioni** | University of Bergamo | TBD (Broad topic: stochastic programming)
