@@ -25,7 +25,6 @@ Dates and times are CET (Central European Time).
 
 Date | Speaker | Affiliation | Topic 
 :----|:--------|:------------|:------
-01/02/2016 11:30 | **Emiliano Traversi** | University of Paris 13 | Application of Dantzig-Wolfe Reformulation to Binary Quadratic Problems
 11/02/2016 15:30 | **Filippo Masini** | University of Bologna | Exact Algorithms for Operational Management of Station-Based Electric Car Sharing Systems
 31/03/2016 15:30 | **Arthur Kramer** | University of Modena and Reggio Emilia | A Local Search Based Metaheuristic for a Class of Earliness and Tardiness Scheduling Problems
 21/04/2016 15:30 | **Andrea Peano** | University of Ferrara | TBD
@@ -41,15 +40,16 @@ Below you can find a list of past seminars. Slides and recordings are available 
 
 Date | Speaker | Affiliation | Topic |  |
 :----|:--------|:------------|:------|:-|:-
+01/02/2016 | **Emiliano Traversi** | University of Paris 13 | Application of Dantzig-Wolfe Reformulation to Binary Quadratic Problems | [Slides](http://santini.in/files/seminars/spring-2016/et_slides.pdf) | [Rec](https://www.youtube.com/watch?v=PyWfezxAMLQ)
 21/01/2016 | **Georg Brandstätter** | University of Vienna | ILP formulations for finding optimal locations for charging stations in an electric car sharing network | [Slides](http://santini.in/files/seminars/spring-2016/gb_slides.pdf) | [Rec](http://santini.in/files/seminars/spring-2016/gb_video.mp4)
 
 ### 2015
 
 Date | Speaker | Affiliation | Topic |  |
 :----|:--------|:------------|:------|:-|:-
-29/01/2015 | **Alberto Santini** | University of Bologna | A rich variant of the TSP with Pickups and Deliveries | |
-26/02/2015 | **Jonas Schweiger** | ZIB Berlin and IBM | Max clique cuts for standard quadratic programs | | [Rec](http://santini.in/files/seminars/spring-2015/js_video.flv)
-26/03/2015 | **Maxence Delorme** | University of Bologna | 1- and 2-dimensional packing problems | [Slides](http://santini.in/files/seminars/spring-2015/md_slides.pdf) | [Rec](http://santini.in/files/seminars/spring-2015/md_video.flv)
-30/04/2015 | **Sven Wiese** | University of Bologna and IBM | Deriving intersection cuts from wide split disjunctions | [Slides](http://santini.in/files/seminars/spring-2015/sw_slides.pdf) | [Rec](http://santini.in/files/seminars/spring-2015/sw_video.flv)
-21/05/2015 | **Bruno Petrato Bruck** | University of Modena and Reggio Emilia | Non-elementary formulations for the single Vehicle Routing Problem with deliveries and selective pickups | [Slides](http://santini.in/files/seminars/spring-2015/bpb_slides.pdf) |
 25/06/2015 | **Veronica Dal Sasso** | University of Padova | A column generation approach for Pure Parsimony Haplotyping | [Slides](http://santini.in/files/seminars/spring-2015/vds_slides.pdf) | [Rec](http://santini.in/files/seminars/spring-2015/vds_video.flv)
+21/05/2015 | **Bruno Petrato Bruck** | University of Modena and Reggio Emilia | Non-elementary formulations for the single Vehicle Routing Problem with deliveries and selective pickups | [Slides](http://santini.in/files/seminars/spring-2015/bpb_slides.pdf) |
+30/04/2015 | **Sven Wiese** | University of Bologna and IBM | Deriving intersection cuts from wide split disjunctions | [Slides](http://santini.in/files/seminars/spring-2015/sw_slides.pdf) | [Rec](http://santini.in/files/seminars/spring-2015/sw_video.flv)
+26/03/2015 | **Maxence Delorme** | University of Bologna | 1- and 2-dimensional packing problems | [Slides](http://santini.in/files/seminars/spring-2015/md_slides.pdf) | [Rec](http://santini.in/files/seminars/spring-2015/md_video.flv)
+26/02/2015 | **Jonas Schweiger** | ZIB Berlin and IBM | Max clique cuts for standard quadratic programs | | [Rec](http://santini.in/files/seminars/spring-2015/js_video.flv)
+29/01/2015 | **Alberto Santini** | University of Bologna | A rich variant of the TSP with Pickups and Deliveries | |
