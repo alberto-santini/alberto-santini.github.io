@@ -41,7 +41,7 @@ Below you can find a list of past seminars. Slides and recordings are available 
 Date | Speaker | Affiliation | Topic |  |
 :----|:--------|:------------|:------|:-|:-
 01/02/2016 | **Emiliano Traversi** | University of Paris 13 | Application of Dantzig-Wolfe Reformulation to Binary Quadratic Problems | [Slides](http://santini.in/files/seminars/spring-2016/et_slides.pdf) | [Rec](https://www.youtube.com/watch?v=PyWfezxAMLQ)
-21/01/2016 | **Georg Brandstätter** | University of Vienna | ILP formulations for finding optimal locations for charging stations in an electric car sharing network | [Slides](http://santini.in/files/seminars/spring-2016/gb_slides.pdf) | [Rec](http://santini.in/files/seminars/spring-2016/gb_video.mp4)
+21/01/2016 | **Georg Brandstätter** | University of Vienna | ILP formulations for finding optimal locations for charging stations in an electric car sharing network | [Slides](http://santini.in/files/seminars/spring-2016/gb_slides.pdf) | [Rec](https://www.youtube.com/watch?v=Q7cjSgyYKPc)
 
 ### 2015
 
