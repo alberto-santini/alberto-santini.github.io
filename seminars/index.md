@@ -25,7 +25,6 @@ Dates and times are CET (Central European Time).
 
 Date | Speaker | Affiliation | Topic 
 :----|:--------|:------------|:------
-11/02/2016 15:30 | **Filippo Masini** | University of Bologna | Exact Algorithms for Operational Management of Station-Based Electric Car Sharing Systems
 31/03/2016 15:30 | **Arthur Kramer** | University of Modena and Reggio Emilia | A Local Search Based Metaheuristic for a Class of Earliness and Tardiness Scheduling Problems
 21/04/2016 15:30 | **Andrea Peano** | University of Ferrara | TBD
 05/05/2016 15:30 | **Alessandra Berto** | Tor Vergata University of Rome and Trenitalia | TBD
@@ -40,6 +39,7 @@ Below you can find a list of past seminars. Slides and recordings are available 
 
 Date | Speaker | Affiliation | Topic |  |
 :----|:--------|:------------|:------|:-|:-
+11/02/2016 | **Filippo Masini** | University of Bologna | Exact Algorithms for Operational Management of Station-Based Electric Car Sharing Systems | [Slides](http://santini.in/files/seminars/spring-2016/fm_slides.pdf) | [Rec](https://www.youtube.com/watch?v=xbIEU8eht48)
 01/02/2016 | **Emiliano Traversi** | University of Paris 13 | Application of Dantzig-Wolfe Reformulation to Binary Quadratic Problems | [Slides](http://santini.in/files/seminars/spring-2016/et_slides.pdf) | [Rec](https://www.youtube.com/watch?v=PyWfezxAMLQ)
 21/01/2016 | **Georg Brandstätter** | University of Vienna | ILP formulations for finding optimal locations for charging stations in an electric car sharing network | [Slides](http://santini.in/files/seminars/spring-2016/gb_slides.pdf) | [Rec](https://www.youtube.com/watch?v=Q7cjSgyYKPc)
 
