@@ -25,6 +25,7 @@ Dates and times are CET (Central European Time).
 
 Date | Speaker | Affiliation | Topic
 :----|:--------|:------------|:------
+07/04/2016 13:30 | **Philippe Lacomme** | Université Blaise Pascal, Clermont-Ferrand | Combined production and scheduling problems
 05/05/2016 15:30 | **Alessandra Berto** | Tor Vergata University of Rome and Trenitalia | TBD
 12/05/2016 15:30 | **Francesca Maggioni** | University of Bergamo | TBD (Broad topic: stochastic programming)
 17/05/2016 15:30 | **Andrea Peano** | University of Ferrara | Generalizing path-relinking for simulation-optimization problems
