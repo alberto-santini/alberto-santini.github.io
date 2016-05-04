@@ -29,6 +29,7 @@ Date | Speaker | Affiliation | Topic
 17/05/2016 16:30 | **Andrea Peano** | University of Ferrara | Generalizing path-relinking for simulation-optimization problems
 19/05/2016 16:30 | **Claudio Gambella** | University of Bologna | The Vehicle Routing Problem with Floating Targets: Formulation and Solution Approach
 26/05/2016 16:30 | **Raphael Kramer** | University of Modena and Reggio Emilia | An Exact Algorithm for the Capacitated p-centre Problem
+31/05/2016 16:30 | **Thibaut Vidal** | PUC Rio de Janeiro and CIRRELT Montreal | Node, Edge, Arc Routing and Turn Penalties
 
 ## Past
 
