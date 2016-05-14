@@ -26,8 +26,8 @@ Dates and times are CET (Central European Time).
 Date | Speaker | Affiliation | Topic
 :----|:--------|:------------|:------
 12/05/2016 16:30 | **Francesca Maggioni** | University of Bergamo | Bounds and Approximations in Stochastic Programming
-17/05/2016 16:30 | **Andrea Peano** | University of Ferrara | Generalizing path-relinking for simulation-optimization problems
 19/05/2016 16:30 | **Claudio Gambella** | University of Bologna | The Vehicle Routing Problem with Floating Targets: Formulation and Solution Approach
+24/05/2016 16:30 | **Andrea Peano** | University of Ferrara | Generalizing path-relinking for simulation-optimization problems
 26/05/2016 16:30 | **Raphael Kramer** | University of Modena and Reggio Emilia | An Exact Algorithm for the Capacitated p-centre Problem
 31/05/2016 16:30 | **Thibaut Vidal** | PUC Rio de Janeiro and CIRRELT Montreal | Node, Edge, Arc Routing and Turn Penalties
 
