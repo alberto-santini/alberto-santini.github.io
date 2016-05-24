@@ -25,7 +25,6 @@ Dates and times are CET (Central European Time).
 
 Date | Speaker | Affiliation | Topic
 :----|:--------|:------------|:------
-19/05/2016 16:30 | **Claudio Gambella** | University of Bologna | The Vehicle Routing Problem with Floating Targets: Formulation and Solution Approach
 24/05/2016 16:30 | **Andrea Peano** | University of Ferrara | Generalizing path-relinking for simulation-optimization problems
 26/05/2016 16:30 | **Raphael Kramer** | University of Modena and Reggio Emilia | An Exact Algorithm for the Capacitated p-centre Problem
 31/05/2016 16:30 | **Thibaut Vidal** | PUC Rio de Janeiro and CIRRELT Montreal | Node, Edge, Arc Routing and Turn Penalties
@@ -38,6 +37,7 @@ Below you can find a list of past seminars. Slides and recordings are available 
 
 Date | Speaker | Affiliation | Topic |  |
 :----|:--------|:------------|:------|:-|:-
+19/05/2016 | **Claudio Gambella** | University of Bologna | The Vehicle Routing Problem with Floating Targets: Formulation and Solution Approach | [Slides](http://santini.in/files/seminars/spring-2016/cg_slides.pdf) | [Rec](https://www.youtube.com/watch?v=hNm5wo4HeBc)
 12/05/2016 | **Francesca Maggioni** | University of Bergamo | Bounds and Approximations in Stochastic Programming | [Slides](http://santini.in/files/seminars/spring-2016/fm2_slides.pdf) | [Rec](https://www.youtube.com/watch?v=iOp8ZfLzbQg)
 07/04/2016 | **Philippe Lacomme** | Université Blaise Pascal, Clermont-Ferrand | Combined production and scheduling problems | [Slides](http://santini.in/files/seminars/spring-2016/fl_slides.pdf) | [Rec](https://www.youtube.com/watch?v=lRH9lf52Hwk)
 31/03/2016 | **Arthur Kramer** | University of Modena and Reggio Emilia | A Local Search Based Metaheuristic for a Class of Earliness and Tardiness Scheduling Problems | [Slides](http://santini.in/files/seminars/spring-2016/ak_slides.pdf) | [Rec](https://www.youtube.com/watch?v=tpKTJAEBpWQ)
