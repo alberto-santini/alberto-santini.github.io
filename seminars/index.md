@@ -23,7 +23,7 @@ Below you can find a list of past seminars. Slides and recordings are available 
 
 Date | Speaker | Affiliation | Topic |  |
 :----|:--------|:------------|:------|:-|:-
-31/05/2016 | **Thibaut Vidal** | PUC Rio de Janeiro and CIRRELT Montreal | Node, Edge, Arc Routing and Turn Penalties | [Slides](http://santini.in/files/seminars/spring-2016/tv_slides.pdf) | Coming soon
+31/05/2016 | **Thibaut Vidal** | PUC Rio de Janeiro and CIRRELT Montreal | Node, Edge, Arc Routing and Turn Penalties | [Slides](http://santini.in/files/seminars/spring-2016/tv_slides.pdf) | [Rec](https://www.youtube.com/watch?v=kRoBHjYWrwA)
 26/05/2016 | **Raphael Kramer** | University of Modena and Reggio Emilia | An Exact Algorithm for the Capacitated p-centre Problem | [Slides](http://santini.in/files/seminars/spring-2016/rk_slides.pdf) | [Rec](https://www.youtube.com/watch?v=mWgUbtqQ-98)
 24/05/2016 | **Andrea Peano** | University of Ferrara | Generalizing path-relinking for simulation-optimization problems | [Slides](http://santini.in/files/seminars/spring-2016/ap_slides.pptx) |
 19/05/2016 | **Claudio Gambella** | University of Bologna | The Vehicle Routing Problem with Floating Targets: Formulation and Solution Approach | [Slides](http://santini.in/files/seminars/spring-2016/cg_slides.pdf) | [Rec](https://www.youtube.com/watch?v=hNm5wo4HeBc)
