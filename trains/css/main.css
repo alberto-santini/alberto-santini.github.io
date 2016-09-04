@@ -1,0 +1,33 @@
+input {
+    border: 1px solid black;
+}
+
+.control-group {
+    margin-top: 1em;
+}
+
+.abo-slider {
+    width: 50%;
+}
+
+.abo-num {
+    width: 40%;
+    text-align: right;
+}
+
+.abo-num-inline {
+    width: 60px;
+    text-align: right;
+}
+
+dt,dfn {
+    font-weight: normal;
+}
+
+dd {
+    margin-bottom: 1em;
+}
+
+#main-content{
+    margin-bottom: 2em;
+}
