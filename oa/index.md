@@ -30,4 +30,4 @@ layout: default
 
 ## Slides
 
-* [Introduction](files/oa/OPT-ALG_2016_1_Introduction.pdf)
+* [Introduction](/files/oa/OPT-ALG_2016_1_Introduction.pdf)
