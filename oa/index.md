@@ -27,3 +27,7 @@ layout: default
 <i class="fa fa-map-marker" /> DEI 2nd floor
 
 <i class="fa fa-phone" /> 93646
+
+## Slides
+
+* [Introduction] (files/oa/OPT-ALG_2016_1_Introduction.pdf)
