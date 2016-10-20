@@ -33,3 +33,11 @@ layout: default
 * [Introduction](/files/oa/OPT-ALG_2016_1_Introduction.pdf)
 * [Logical constraints](/files/oa/OPT-ALG_2016_2_Logical-Constraints.pdf)
 * [Models](/files/oa/OPT-ALG_2016_3_Models.pdf)
+
+## CPLEX
+
+You can either download the [community edition](https://www-01.ibm.com/software/websphere/products/optimization/cplex-studio-community-edition/) of CPLEX, or obtain a full copy (for academic use only). In this latter case, please send an email: we will arrange office hours, you will come to my office, and I will share with you the version you need (Linux/Mac/Windows).
+
+* [Visual Studio Property Sheet](/files/oa/CPLEX_Lab1.props) used to configure Visual Studio to find the proper CPLEX libraries and headers (for usage in Lab1).
+* [IMRT Visual Studio Skeleton](/files/oa/imrt_vs_skeleton.zip) which can be used as a base to solve the Leaf Sequencing problem.
+* [IMRT Exercise Text](/files/oa/imrt.pdf)
