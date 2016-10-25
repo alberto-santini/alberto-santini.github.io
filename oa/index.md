@@ -32,8 +32,9 @@ layout: default
 
 * [Introduction](/files/oa/OPT-ALG_2016_1_Introduction.pdf)
 * [Logical constraints](/files/oa/OPT-ALG_2016_2_Logical-Constraints.pdf)
-* [Models](/files/oa/OPT-ALG_2016_3_Models.pdf)
+* [Models (1)](/files/oa/OPT-ALG_2016_3_Models.pdf)
 * [Complexity](/files/oa/OPT-ALG_2016_4_Complexity.pdf)
+* [Models (2)](/files/oa/OPT-ALG_2016_5_Models.pdf)
 
 ## CPLEX
 
