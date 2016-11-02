@@ -35,6 +35,8 @@ layout: default
 * [Models (1)](/files/oa/OPT-ALG_2016_3_Models.pdf)
 * [Complexity](/files/oa/OPT-ALG_2016_4_Complexity.pdf)
 * [Models (2)](/files/oa/OPT-ALG_2016_5_Models.pdf)
+* [VCP Models](/files/oa/OPT-ALG_2016_6_VCP_models.pdf)
+* [ATSP Models](/files/oa/OPT-ALG_2016_7_ATSP_models.pdf)
 
 ## CPLEX
 
