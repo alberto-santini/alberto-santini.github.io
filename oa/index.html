@@ -103,12 +103,104 @@ layout: default
       The Visual Studio project can be downloaded here: <a href="/files/oa/BasketProject.zip">BasketProject</a>.
     </p>
 
-    <h1>The diet problem</h1>
+    <h1>The Diet problem</h1>
 
     <p>
       The problem description can be downloaded here: <a href="/files/oa/diet.pdf">diet.pdf</a>.<br/>
       The Visual Studio project can be downloaded here: <a href="/files/oa/DietProject.zip">DietProject.zip</a>.<br/>
       An example solution can be downloaded here: <a href="/files/oa/DietProjectSolution.zip">DietProjectSolution.zip</a>.<br/>
     </p>
+
+    <h1>The Project Scheduling problem</h1>
+
+    <p>
+      In this problem, we have to schedule <em>n</em> activities to complete a project.
+      Each activity <em>i</em> has a duration <em>d<sub>i</sub></em>.
+      Furthermore, we are given a list <em>P</em> of pairs <em>(i,j)</em>.
+      Each pair represents a precedence relation between activities, meaning that activity <em>j</em> cannot start before activity <em>i</em> is completed.
+    </p>
+
+    <p>
+      We solve this problem using a non-negative real variable <em>t</em> to record the total completion time, and non-negative real variables <em>s<sub>i</sub></em> to record the start time of each activity <em>i</em>.
+      A model for this problem aims at minimising <em>t</em>, while respecting the following two constraints:
+    </p>
+
+    <ol>
+      <li><em>s<sub>i</sub> + d<sub>i</sub> &le; t</em> for all activities <em>i</em>;</li>
+      <li><em>s<sub>i</sub> + d<sub>i</sub> &le; s<sub>j</sub></em> for all pairs <em>(i,j)</em>.</li>
+    </ol>
+
+    <p>
+      Code to solve this problem is given here:
+    </p>
+
+    <pre>
+      <code>
+#define IL_STD
+#include &lt;ilcplex/ilocplex.h&gt;
+#include &lt;array&gt;
+#include &lt;utility&gt;
+#include &lt;vector&gt;
+#include &lt;numeric&gt;
+
+int main() {
+	// --- Data ---
+
+	const int n_activities = 6;
+	const std::array&lt;double, 6&gt; durations = { 1.0, 3.0, 2.0, 6.0, 3.0, 1.5 };
+	std::vector&lt;std::pair&lt;int, int&gt;&gt; predecessors;
+
+	predecessors.push_back(std::make_pair(0, 2));
+	predecessors.push_back(std::make_pair(0, 3));
+	predecessors.push_back(std::make_pair(1, 4));
+	predecessors.push_back(std::make_pair(1, 5));
+	predecessors.push_back(std::make_pair(2, 4));
+	predecessors.push_back(std::make_pair(3, 4));
+
+	const double sum_of_durations =
+		std::accumulate(durations.begin(), durations.end(), 0);
+
+	// --- Here starts your code ---
+	IloEnv env;
+	IloModel model(env);
+
+	IloNumVar tot(env, 0, sum_of_durations, IloNumVar::Float);
+	IloNumVarArray start(env, n_activities, 0, sum_of_durations, IloNumVar::Float);
+
+	// Minimize variable tot:
+	model.add(IloObjective(env, tot));
+
+	// Constraints 1:
+	for(int i = 0; i &lt; n_activities; ++i) {
+		model.add(start[i] + durations[i] &lt;= tot);
+	}
+
+	// Constraints 2:
+	for(unsigned int k = 0; k &lt; predecessors.size(); ++k) {
+		int i = predecessors[k].first, j = predecessors[k].second;
+		model.add(start[i] + durations[i] &lt;= start[j]);
+	}
+
+	IloCplex cplex(model);
+
+	try {
+		if(cplex.solve()) {
+			for(int i = 0; i &lt; n_activities; ++i) {
+				std::cout &lt;&lt; cplex.getValue(start[i]) &lt;&lt; "\n";
+			}
+			std::cout &lt;&lt; "Total: " &lt;&lt; cplex.getValue(tot) &lt;&lt; "\n";
+		} else {
+			std::cerr &lt;&lt; "Cplex problem infeasible\n";
+		}
+	} catch(IloException&amp; e) {
+		std::cerr &lt;&lt; e.getMessage() &lt;&lt; "\n";
+	}
+
+	env.end();
+
+	return 0;
+}
+      </code>
+    </pre>
   </div>
 </section>
