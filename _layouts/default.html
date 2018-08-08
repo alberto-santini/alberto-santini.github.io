@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="{{ site.description }}">
     <style>
     body {
@@ -31,11 +31,11 @@
     section {
       margin-bottom: 2em;
     }
-    section > h1 {
+    section h1 {
       font-family: "Trebuchet MS", Helvetica, sans-serif;
       font-size: 150%;
     }
-    section > div > h1 {
+    section h2 {
       font-size: 112.5%;
     }
     </style>
