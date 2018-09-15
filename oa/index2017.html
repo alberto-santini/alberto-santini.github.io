@@ -1,0 +1,215 @@
+---
+layout: default
+---
+
+<section>
+  <h1>Optimisation Algorithms M</h1>
+
+  <div>
+    <h1>Teacher</h1>
+
+    <p>
+      Prof Paolo Toth (<a href="mailto:paolo.toth@unibo.it">paolo.toth@unibo.it</a>)
+    </p>
+
+    <p>
+      Office hours: Tue 11:00 - 13:00, DEI 2nd floor, phone: 93028
+    </p>
+  </div>
+
+  <div>
+    <h1>Tutor</h1>
+
+    <p>
+      Alberto Santini (<a href="mailto:a.santini@unibo.it">a.santini@unibo.it</a>)
+    </p>
+
+    <p>
+      Office hours: By mail
+    </p>
+  </div>
+
+  <div>
+    <h1>Slides</h1>
+
+    <ul>
+      <li><a href="/files/oa/OPT-ALG_2017_1_Introduction.pdf">Introduction</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_2_Logical-Constraints.pdf">Logical constraints</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_3_KP01_Complexity.pdf">KP01 and Complexity</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_4_Models_A.pdf">Models (A)</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_5_Models_B.pdf">Models (B)</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_6_VCP.pdf">VCP</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_7_ATSP.pdf">ATSP</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_8_B-a-B.pdf">Branch and bound</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_9_KP-alg.pdf">Algorithms for knapsack</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_10_SCP-alg.pdf">Algorithms for set covering</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_11_ATSP-alg.pdf">Algorithms for the ATSP</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_12_VCP-alg.pdf">Algorithms for vertex colouring</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_Exercises_Part-1.pdf">Exercises (Part 1)</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_Exercises_Part-2.pdf">Exercises (Part 2)</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_Sol_EX-1-2-Part-1.pdf">Solutions (Part 1)</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_Sol_Part_1-A.pdf">Solutions (Part 1-A)</a></li>
+      <li><a href="/files/oa/OPT-ALG_2017_Sol_Part_1-B.pdf">Solutions (Part 1-B)</a></li>
+    </ul>
+  </div>
+
+  <div>
+    <h1>CPLEX Exam Solution</h1>
+
+    <p>
+      A possible solution to the CPLEX exam can be found <a href="/files/oa/exam-2017-solution.cpp">here</a>.
+    </p>
+
+    <h1>CPLEX</h1>
+
+    <p>
+      Cplex can be obtained in the following ways:
+      <ul>
+        <li>Downloading the <a href="https://www-01.ibm.com/software/websphere/products/optimization/cplex-studio-community-edition/">community edition</a>.</li>
+        <li>Registering to the IBM Academic Initiative and downloading the <a href="https://ibm.onthehub.com/WebStore/OfferingDetails.aspx?o=9b4eadea-9776-e611-9421-b8ca3a5db7a1">student edition</a>.</li>
+        <li>Bringing an USB stick on the first day of lab lectures, and getting a copy (Linux, Mac OS, Windows versions available) which you will: 1. only use for the purposes of this course, and 2. delete at the end of the course.</li>
+        <li>Downloading the <a href="http://137.204.57.207">pre-configured virtual machine</a>.</li>
+      </ul>
+    </p>
+
+    <h1>The Virtual Machine</h1>
+
+    <p>
+      The link above lets you download a pre-configured Virtual Machine, which will only be available for the duration of the course.
+      You can run it by first installing VirtualBox.
+      The username is <i>student</i> and the password is <i>cplex</i>.
+      Once logged in, you can have a look at a C++ programme which uses Cplex, and solves the <a href="files/oa/imrt.pdf">IMRT</a> problem.
+      Open a terminal (icon on the top bar), and type <code>cd local/src/imrt</code> to get to the code folder.
+      The sample programme can be compiled with <code>sh compile.sh</code> and, then, executed with <code>./imrt</code>.
+      To have a look at the source files, you can use for example <i>Visual Studio Code</i>, which is also installed and is available on the top bar.
+    </p>
+
+    <h1>Blank Visual Studio project</h1>
+
+    <p>
+      A blank Visual Studio project ready to be used with Cplex is here: <a href="/files/oa/BlankCplexProject.zip">BlankCplexProject</a>.
+    </p>
+
+    <h1>CPLEX Documentation</h1>
+
+    <p>
+      Documentation for the most commonly used CPLEX classes can be downloaded here: <a href="/files/oa/cplex_doc.zip">cplex_doc.zip</a>.
+      These are the same files that you will use during the exam.
+    </p>
+
+    <h1>The IMRT Leaf Sequencing problem</h1>
+
+    <p>
+      The problem description can be downloaded here: <a href="/files/oa/imrt.pdf">imrt.pdf</a>.<br/>
+      The file containing problem data can be downloaded here: <a href="/files/oa/imrt.h">imrt.h</a>.<br/>
+      The file containing the main programme can be downloaded here: <a href="/files/oa/main.cpp">main.cpp</a>.
+    </p>
+
+    <h1>The Basket Coach problem</h1>
+
+    <p>
+      The problem description can be downloaded here: <a href="/files/oa/basket.pdf">basket.pdf</a>.<br/>
+      The Visual Studio project can be downloaded here: <a href="/files/oa/BasketProject.zip">BasketProject</a>.
+    </p>
+
+    <h1>The Diet problem</h1>
+
+    <p>
+      The problem description can be downloaded here: <a href="/files/oa/diet.pdf">diet.pdf</a>.<br/>
+      The Visual Studio project can be downloaded here: <a href="/files/oa/DietProject.zip">DietProject.zip</a>.<br/>
+      An example solution can be downloaded here: <a href="/files/oa/DietProjectSolution.zip">DietProjectSolution.zip</a>.<br/>
+    </p>
+
+    <h1>The Project Scheduling problem</h1>
+
+    <p>
+      In this problem, we have to schedule <em>n</em> activities to complete a project.
+      Each activity <em>i</em> has a duration <em>d<sub>i</sub></em>.
+      Furthermore, we are given a list <em>P</em> of pairs <em>(i,j)</em>.
+      Each pair represents a precedence relation between activities, meaning that activity <em>j</em> cannot start before activity <em>i</em> is completed.
+    </p>
+
+    <p>
+      We solve this problem using a non-negative real variable <em>t</em> to record the total completion time, and non-negative real variables <em>s<sub>i</sub></em> to record the start time of each activity <em>i</em>.
+      A model for this problem aims at minimising <em>t</em>, while respecting the following two constraints:
+    </p>
+
+    <ol>
+      <li><em>s<sub>i</sub> + d<sub>i</sub> &le; t</em> for all activities <em>i</em>;</li>
+      <li><em>s<sub>i</sub> + d<sub>i</sub> &le; s<sub>j</sub></em> for all pairs <em>(i,j)</em>.</li>
+    </ol>
+
+    <p>
+      Code to solve this problem is given here:
+    </p>
+
+    <pre>
+      <code>
+#define IL_STD
+#include &lt;ilcplex/ilocplex.h&gt;
+#include &lt;array&gt;
+#include &lt;utility&gt;
+#include &lt;vector&gt;
+#include &lt;numeric&gt;
+
+int main() {
+	// --- Data ---
+
+	const int n_activities = 6;
+	const std::array&lt;double, 6&gt; durations = { 1.0, 3.0, 2.0, 6.0, 3.0, 1.5 };
+	std::vector&lt;std::pair&lt;int, int&gt;&gt; predecessors;
+
+	predecessors.push_back(std::make_pair(0, 2));
+	predecessors.push_back(std::make_pair(0, 3));
+	predecessors.push_back(std::make_pair(1, 4));
+	predecessors.push_back(std::make_pair(1, 5));
+	predecessors.push_back(std::make_pair(2, 4));
+	predecessors.push_back(std::make_pair(3, 4));
+
+	const double sum_of_durations =
+		std::accumulate(durations.begin(), durations.end(), 0);
+
+	// --- Here starts your code ---
+	IloEnv env;
+	IloModel model(env);
+
+	IloNumVar tot(env, 0, sum_of_durations, IloNumVar::Float);
+	IloNumVarArray start(env, n_activities, 0, sum_of_durations, IloNumVar::Float);
+
+	// Minimize variable tot:
+	model.add(IloObjective(env, tot));
+
+	// Constraints 1:
+	for(int i = 0; i &lt; n_activities; ++i) {
+		model.add(start[i] + durations[i] &lt;= tot);
+	}
+
+	// Constraints 2:
+	for(unsigned int k = 0; k &lt; predecessors.size(); ++k) {
+		int i = predecessors[k].first, j = predecessors[k].second;
+		model.add(start[i] + durations[i] &lt;= start[j]);
+	}
+
+	IloCplex cplex(model);
+
+	try {
+		if(cplex.solve()) {
+			for(int i = 0; i &lt; n_activities; ++i) {
+				std::cout &lt;&lt; cplex.getValue(start[i]) &lt;&lt; "\n";
+			}
+			std::cout &lt;&lt; "Total: " &lt;&lt; cplex.getValue(tot) &lt;&lt; "\n";
+		} else {
+			std::cerr &lt;&lt; "Cplex problem infeasible\n";
+		}
+	} catch(IloException&amp; e) {
+		std::cerr &lt;&lt; e.getMessage() &lt;&lt; "\n";
+	}
+
+	env.end();
+
+	return 0;
+}
+      </code>
+    </pre>
+  </div>
+</section>
