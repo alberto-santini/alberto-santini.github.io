@@ -3,6 +3,6 @@ layout: default
 ---
 
 {% assign index = true %}
-{% for post in site.posts limit 1 %}
+{% for post in site.posts %}
     {{ post.content }}
 {% endfor %}
