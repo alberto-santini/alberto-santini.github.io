@@ -1,0 +1,183 @@
+body {
+    font-size: 18px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: #343837;
+}
+
+header {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+h1 {
+    color: inherit;
+}
+
+body > header {
+    background-color: #343837;
+    color: white;
+}
+
+body > header h1 {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+body > header h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+body > header p {
+    text-align: center;
+}
+
+body > header a {
+    color: white;
+    text-decoration: none;
+}
+
+body > header a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+body > main {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+body > main h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: inline;
+}
+
+body > main h2 {
+    font-size: 1.5rem;
+    font-weight: normal;
+    display: inline;
+    margin-left: 1rem;
+}
+
+body > main .larger-portion {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+body > main .larger-portion-inset {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: #f2f2f2;
+}
+
+/* ITALY MAP SECTION */
+#italy-map {
+    height: 800px;
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.map-info h1 {
+    font-size: .75rem;
+}
+.map-info strong {
+    text-transform: capitalize;
+}
+.map-legend .map-legend-entry {
+    line-height: 1rem;
+    padding: .5rem;
+}
+.map-legend span {
+    height: 1rem;
+    width: 1rem;
+    float: left;
+    margin-right: .5rem;
+    opacity: 0.8;
+    border: 1px solid #343837;
+}
+
+/* ITALY CHART SECTION */
+#italy-chart {
+    height: 700px;
+    width: 100%;
+    text-align: center;
+}
+#italy-chart svg {
+    margin: auto;
+}
+.italy-chart-hover-circle {
+    stroke: #343837;
+    stroke-width: 2px;
+    fill: none;
+}
+.italy-chart-hover-text {
+    font-size: .75rem;
+    fill: #343837;
+}
+.italy-chart-overlay {
+    fill: none;
+    pointer-events: all;
+}
+.axis-grid line {
+    stroke: white;
+    shape-rendering: crispEdges;
+}
+.italy-chart-point-label {
+    fill: #343837;
+    font-size: .75rem;
+}
+.chartist-tooltip {
+    position: absolute;
+    display: inline-block;
+    opacity: 0;
+    min-width: 5em;
+    padding: .5em;
+    background: #F4C63D;
+    color: #453D3F;
+    font-family: Oxygen,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    text-align: center;
+    pointer-events: none;
+    z-index: 1;
+    -webkit-transition: opacity .2s linear;
+    -moz-transition: opacity .2s linear;
+    -o-transition: opacity .2s linear;
+    transition: opacity .2s linear;
+}
+.chartist-tooltip:before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    margin-left: -15px;
+    border: 15px solid transparent;
+    border-top-color: #F4C63D;
+}
+.chartist-tooltip.tooltip-show {
+      opacity: 1;
+} 
+.ct-area, .ct-line {
+    pointer-events: none;
+}
+
+/* SCENARIO SECTION */
+#scenario-selector {
+    padding: 1rem;
+    text-align: center;
+}
+#scenario-labs-clusters {
+    height: 800px;
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+#scenario-swabs-tested {
+    height: 700px;
+    width: 100%;
+    text-align: center;
+}
