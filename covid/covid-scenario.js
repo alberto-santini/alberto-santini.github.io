@@ -64,8 +64,9 @@ function addRealDataChart() {
         series: series
     }, {
         fullWidth: true,
-        low: 0,
         showArea: true,
+        low: 0,
+        high: 65000,
         chartPadding: {
             left: 40,
             bottom: 40,
