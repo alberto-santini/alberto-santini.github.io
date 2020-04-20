@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.css">
         <link rel="stylesheet" href="covid.css">
+        <script src="https://kit.fontawesome.com/2fec0fd860.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.js"></script>
         <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
         <script src="js-chartist-plugins.js"></script>
@@ -28,13 +29,16 @@
             <div class="row justify-content-center">
                 <div class="col-xl-6">
                     <h1>Increase COVID-19 Swab Testing Capacity via Optimisation</h1>
-                    <h2>
-                        <a href="https://santini.in/">Alberto Santini</a> -
-                        <a href="https://upf.edu/">Universitat Pompeu Fabra</a>
+
+                    <h2 class="mt-xl-4">
+                        <i class="fas fa-user-graduate"></i>&nbsp;<a href="https://santini.in/">Alberto Santini</a> -
+                        <a href="https://upf.edu/">Universitat Pompeu Fabra</a>&nbsp;<i class="fas fa-university"></i>
                     </h2>
-                    <p class="d-xl-none pt-xl-4">
-                        This dashboard is best viewed on a full-size screen.
-                        I cannot figure out how to do responsive d3.js!
+
+                    <p class="mt-xl-4">
+                        <i class="far fa-file-pdf"></i>&nbsp;
+                        <a href="https://santini.in/files/tech-rep-swabs.pdf">Download the technical report</a> -
+                        <a href="https://github.com/alberto-santini/covid-optimisation/">Visit the repository</a>&nbsp;<i class="fab fa-github"></i>
                     </p>
                 </div>
             </div>
@@ -43,6 +47,9 @@
         <main role="main" class="container-fluid">
             <section id="introduction" class="row justify-content-center">
                 <div class="col-xl-6">
+                    <header>
+                        <h1><i class="fas fa-vial"></i>&nbsp;Introduction</h1>
+                    </header>
                     <p>
                         Large-scale testing of the population is a key tool to limit the spread of the disease.
                         Governments must set up massive testing programmes and, to contain new virus clusters, they must <strong>test often</strong> and <strong>test quickly</strong>.
@@ -71,7 +78,7 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-6">
                         <header>
-                            <h1>The situation in Italy</h1>
+                            <h1><i class="fas fa-chart-line"></i>&nbsp;The situation in Italy</h1>
                             <h2>01-13, April, 2020</h2>
                         </header>
 
@@ -102,7 +109,7 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-6">
                         <header>
-                            <h1>Applying optimisation</h1>
+                            <h1><i class="fas fa-cogs"></i>&nbsp;Applying optimisation</h1>
                         </header>
 
                         <p>
