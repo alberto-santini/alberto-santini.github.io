@@ -11,7 +11,7 @@ new Chartist.Line('#italy-chart', {
     series: [series]
 }, {
     fullWidth: true,
-    low: 0,
+    low: 20000,
     showArea: true,
     chartPadding: {
         left: 40,
