@@ -28,6 +28,10 @@ dd {
     margin-bottom: 1em;
 }
 
-#main-content{
+#main-content {
     margin-bottom: 2em;
+}
+
+#position-speed-canvas {
+    height: 600px;
 }
