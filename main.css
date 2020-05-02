@@ -36,6 +36,10 @@ body > main > section > header > h1 {
 body > main > section > article > header > h1 {
     font-size: 1.25rem;
 }
+body > main > section#about > img {
+    float: right;
+    height: 8rem;
+}
 body > main > section#contacts > address {
     width: 100%;
     display: inline-block;
