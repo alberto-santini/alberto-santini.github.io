@@ -1,21 +1,52 @@
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'),
+         url('fonts/source-sans-pro-v13-latin-regular.woff2') format('woff2'),
+         url('fonts/source-sans-pro-v13-latin-regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Source Sans Pro SemiBold'), local('SourceSansPro-SemiBold'),
+         url('fonts/source-sans-pro-v13-latin-600.woff2') format('woff2'),
+         url('fonts/source-sans-pro-v13-latin-600.woff') format('woff');
+}
 html {
     font-size: 18px;
     margin: 0;
     padding: 0;
-    background-color: #343837;
-    color: white;
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: #eee;
+    color: #343837;
+    font-family: 'Source Sans Pro', "Trebuchet MS", Helvetica, sans-serif;
 }
 body {
     margin: 0;
     padding: 0;
 }
 a {
-    text-decoration: underline;
-    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    color: #03719C;
 }
 a:hover {
-    color: #03719C;
+    filter: brightness(125%);
+}
+@keyframes shadowAppear {
+    from {
+        box-shadow: none;
+    }
+    to {
+        box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.05);
+    }
+}
+a:hover > img {
+    filter: brightness(85%);
+    animation-name: shadowAppear;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
 }
 body > header {
     padding: 1em;
@@ -49,13 +80,15 @@ body > main > section#contacts > address {
 body > main > section#highlights > ul {
     list-style: none;
     padding-left: 0;
+    vertical-align: top;
 }
 body > main > section#highlights > ul > li {
     width: 20%;
     list-style-type: none;
     display: inline-block;
+    vertical-align: top;
+    text-align: center;
     padding: 1rem;
-    border: 1px solid white;
     border-radius: 5px;
 }
 body > main > section#highlights > ul > li:not(:first-child) {
