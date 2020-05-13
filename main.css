@@ -104,9 +104,21 @@ body > main > section#highlights > ul > li > a > img {
     max-height: 400px;
     margin-bottom: 1rem;
 }
+.paper header > h1 {
+    font-size: 1.25rem;
+}
+.paper td:first-child {
+    width: 200px;
+}
+.paper td > span {
+    font-weight: 600;
+}
 @media screen and (min-width: 1024px) {
     body > main > section#contacts > address {
         width: 40%;
+    }
+    .paper {
+        margin-bottom: 2rem;
     }
 }
 @media screen and (min-width: 1600px) {
@@ -122,5 +134,8 @@ body > main > section#highlights > ul > li > a > img {
     body > main > section#highlights > ul > li {
         width: 85%;
         margin: 0 0 1rem 0 !important;
+    }
+    .paper td:first-child {
+        width: 120px;
     }
 }
