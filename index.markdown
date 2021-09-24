@@ -17,6 +17,7 @@ I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyou
 * [Curriculum Vitæ](/files/cv.pdf)
 * [Google Scholar Profile](https://scholar.google.it/citations?user=4y_0xGoAAAAJ)
 * [Github Profile](https://github.com/alberto-santini/)
+* Contact: [alberto@santini.in](mailto:alberto@santini.in)
 
 ## Publications
 
