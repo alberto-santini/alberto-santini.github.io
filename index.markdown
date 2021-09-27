@@ -12,7 +12,7 @@ I am an affiliate professor at the [Barcelona Graduate School of Mathematics](ht
 
 I am a lecturer at the [Barcelona School of Management](https://www.bsm.upf.edu) and at [RWTH Business School](https://www.business-school.rwth-aachen.de).
 
-I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyoung.github.io), two chapters brining together young Operational Researchers in Italy and Europe, respectively.
+I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyoung.github.io), two chapters bringing together young Operational Researchers in Italy and Europe, respectively.
 
 * [Curriculum Vitæ](/files/cv.pdf)
 * [Google Scholar Profile](https://scholar.google.it/citations?user=4y_0xGoAAAAJ)
