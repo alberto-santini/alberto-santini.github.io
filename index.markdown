@@ -8,7 +8,7 @@ I am a Marie Skłodowska-Curie Fellow (Cofund EUTOPIA) at [Grande École ESSEC](
 
 While my fellowship is ongoing, I am on leave from a position as tenure-track assistant professor at [Universitat Pompeu Fabra](https://www.upf.edu) in Barcelona, Spain.
 
-I am an affiliate professor at the [Barcelona Graduate School of Mathematics](https://bgsmath.cat), the [Barcelona Graduate School of Economics](https://barcelonagse.eu) and [CY Advanced Studies](https://iea.u-cergy.fr/).
+I am an affiliate professor at the [Barcelona Graduate School of Mathematics](https://bgsmath.cat), the [Barcelona School of Economics](https://bse.eu) and [CY Advanced Studies](https://iea.u-cergy.fr/).
 
 I am a lecturer at the [Barcelona School of Management](https://www.bsm.upf.edu) and at [RWTH Business School](https://www.business-school.rwth-aachen.de).
 
