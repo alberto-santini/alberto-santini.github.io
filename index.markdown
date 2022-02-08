@@ -21,17 +21,17 @@ I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyou
 
 ## Publications
 
-* Delorme, M. & Santini, A. (2021). Energy-efficient automated vertical farms. Submitted.
-    * [Preprint](files/papers/delorme-santini-2021.pdf)
+* Delorme, M. & Santini, A. (2022). Energy-efficient automated vertical farms. Omega, 109.
+    * [Preprint](files/papers/delorme-santini-2022.pdf)
     * [Repository](https://github.com/alberto-santini/energy-efficient-vertical-farms)
-* Santini, A., Schneider, M., Vidal, T., & Vigo, D. (2021). Decomposition strategies for vehicle routing heuristics. Submitted.
+* Santini, A., Viana, A., Klimentova, X., & Pedroso, J.P. (2022). The probabilistic travelling salesman problem with crowdsourcing. Computers & Operations Research (in press).
+    * [Preprint](files/papers/santini-viana-klimentova-pedroso-2022.pdf)
+    * [Repository](https://github.com/alberto-santini/ptspc-instances/)
+* Santini, A., Schneider, M., Vidal, T., & Vigo, D. (2022). Decomposition strategies for vehicle routing heuristics. Submitted.
     * [Preprint](files/papers/santini-schneider-vidal-vigo-2021.pdf)
-* Monaci, M., Pike-Burke, C., & Santini, A. (2021). Exact algorithms for the 0-1 time-bomb knapsack problem. Submitted.
+* Monaci, M., Pike-Burke, C., & Santini, A. (2022). Exact algorithms for the 0-1 time-bomb knapsack problem. Submitted.
     * [Preprint](files/papers/monaci-pike-burke-santini-2021.pdf)
     * [Repository](https://github.com/alberto-santini/tbkp/)
-* Santini, A., Viana, A., Klimentova, X., & Pedroso, J.P. (2021). The probabilistic travelling salesman problem with crowdsourcing. Submitted.
-    * [Preprint](files/papers/santini-viana-klimentova-pedroso-2021.pdf)
-    * [Repository](https://github.com/alberto-santini/ptspc-instances/)
 * Santini, A., Schneider, M., Bartolini, E., & Lemos, V. (2021). The crop growth scheduling problem in vertical farming. European Journal of Operational Research.
     * [Preprint](files/papers/santini-bartolini-schneider-greco-2021.pdf)
     * [Repository](https://github.com/alberto-santini/crop-growth-planning-vf/)
