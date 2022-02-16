@@ -28,7 +28,8 @@ I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyou
     * [Preprint](files/papers/santini-viana-klimentova-pedroso-2022.pdf)
     * [Repository](https://github.com/alberto-santini/ptspc-instances/)
 * Santini, A., Schneider, M., Vidal, T., & Vigo, D. (2022). Decomposition strategies for vehicle routing heuristics. Submitted.
-    * [Preprint](files/papers/santini-schneider-vidal-vigo-2021.pdf)
+    * [Preprint](files/papers/santini-schneider-vidal-vigo-2022.pdf)
+    * [Repository](https://github.com/alberto-santini/cvrp-decomposition/)
 * Monaci, M., Pike-Burke, C., & Santini, A. (2022). Exact algorithms for the 0-1 time-bomb knapsack problem. Submitted.
     * [Preprint](files/papers/monaci-pike-burke-santini-2021.pdf)
     * [Repository](https://github.com/alberto-santini/tbkp/)
