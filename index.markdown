@@ -4,7 +4,7 @@ title: Home Page of Alberto Santini
 
 ## About
 
-I am a Marie Skłodowska-Curie Fellow (Cofund EUTOPIA) at [Grande École ESSEC](https://www.essec.edu), part of [CY Cergy Paris Université](https://www.cyu.fr).
+I am a Marie Skłodowska-Curie Fellow (Cofund EUTOPIA) at [ESSEC Business School](https://www.essec.edu), at the [Department of Information Systems, Decision Sciences and Statistics](https://isds-department.essec.edu/).
 
 While my fellowship is ongoing, I am on leave from a position as tenure-track assistant professor at [Universitat Pompeu Fabra](https://www.upf.edu) in Barcelona, Spain.
 
