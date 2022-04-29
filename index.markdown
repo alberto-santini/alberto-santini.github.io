@@ -33,7 +33,7 @@ I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyou
 * Santini, A., Schneider, M., Vidal, T., & Vigo, D. (2022). Decomposition strategies for vehicle routing heuristics. Submitted.
     * [Preprint](files/papers/santini-schneider-vidal-vigo-2022.pdf)
     * [Repository](https://github.com/alberto-santini/cvrp-decomposition/)
-* Monaci, M., Pike-Burke, C., & Santini, A. (2022). Exact algorithms for the 0-1 time-bomb knapsack problem. Submitted.
+* Monaci, M., Pike-Burke, C., & Santini, A. (2022). Exact algorithms for the 0-1 time-bomb knapsack problem. Computers & Operations Research (in press).
     * [Preprint](files/papers/monaci-pike-burke-santini-2021.pdf)
     * [Repository](https://github.com/alberto-santini/tbkp/)
 * Santini, A., Schneider, M., Bartolini, E., & Lemos, V. (2021). The crop growth scheduling problem in vertical farming. European Journal of Operational Research.
