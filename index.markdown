@@ -6,9 +6,9 @@ title: Home Page of Alberto Santini
 
 I am a Marie Skłodowska-Curie Fellow (Cofund EUTOPIA) at [ESSEC Business School](https://www.essec.edu), at the [Department of Information Systems, Decision Sciences and Statistics](https://isds-department.essec.edu/).
 
-While my fellowship is ongoing, I am on leave from a position as tenure-track assistant professor at [Universitat Pompeu Fabra](https://www.upf.edu) in Barcelona, Spain.
+I am an affiliate professor at the [Data Science Centre](https://datascience.barcelonagse.eu/) of the [Barcelona School of Economics](https://bse.eu), the [Barcelona Graduate School of Mathematics](https://bgsmath.cat) and [CY Advanced Studies](https://iea.u-cergy.fr/).
 
-I am an affiliate professor at the [Barcelona Graduate School of Mathematics](https://bgsmath.cat), the [Barcelona School of Economics](https://bse.eu) and [CY Advanced Studies](https://iea.u-cergy.fr/).
+While my fellowship is ongoing, I am on leave from a position as tenure-track assistant professor at [Universitat Pompeu Fabra](https://www.upf.edu) in Barcelona, Spain.
 
 I am a lecturer at the [Barcelona School of Management](https://www.bsm.upf.edu) and at [RWTH Business School](https://www.business-school.rwth-aachen.de).
 
