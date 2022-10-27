@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <title>Increase COVID-19 Swab Testing Capacity via Optimisation</title>
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.2/css/bootstrap-slider.min.css">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.css">
+        <link rel="stylesheet" href="covid.css">
+        <script src="https://kit.fontawesome.com/2fec0fd860.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.js"></script>
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+        <script src="js-chartist-plugins.js"></script>
+        <script src="js-colormaps.js"></script>
+        <script src="js-colormaps-fns.js"></script>
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.2/bootstrap-slider.min.js"></script>
+    </head>
+
+    <body>
+        <header class="container-fluid py-lg-4">
+            <div class="row justify-content-center">
+                <div class="col-xl-6">
+                    <h1>Increase COVID-19 Swab Testing Capacity via Optimisation</h1>
+
+                    <h2 class="mt-xl-4">
+                        <i class="fas fa-user-graduate"></i>&nbsp;<a href="https://santini.in/">Alberto Santini</a> -
+                        <a href="https://upf.edu/">Universitat Pompeu Fabra</a>&nbsp;<i class="fas fa-university"></i>
+                    </h2>
+
+                    <p class="mt-xl-4">
+                        <i class="far fa-file-pdf"></i>&nbsp;
+                        <a href="https://santini.in/files/papers/santini-2020.pdf">Download the technical report</a> -
+                        <a href="https://github.com/alberto-santini/covid-optimisation/">Visit the repository</a>&nbsp;<i class="fab fa-github"></i>
+                    </p>
+                </div>
+            </div>
+        </header>
+
+        <main role="main" class="container-fluid">
+            <section id="introduction" class="row justify-content-center">
+                <div class="col-xl-6">
+                    <header>
+                        <h1><i class="fas fa-vial"></i>&nbsp;Introduction</h1>
+                    </header>
+                    <p>
+                        Large-scale testing of the population is a key tool to limit the spread of the disease.
+                        Governments must set up massive test programmes and, to contain new virus clusters, they must <strong>test often</strong> and <strong>test quickly</strong>.
+                    </p>
+                    <p>
+                        Standard PCR test kits work by taking a swab with a sample of saliva from a person, and looking for viral RNA on the swab.
+                        For the virus's RNA to be identifiable, it must first be transformed into DNA (i.e., it must go from single to double helix) and then replicated, so that it reaches detectable quantities.
+                        Laboratories need <strong>reagents</strong> to carry out the steps of this procedure.
+                    </p>
+                    <p>
+                        During the COVID-19 pandemic, reagents availability has been a major <strong>bottleneck</strong> to increase test capacity.
+                        We show that we can optimise two decisions which lead to a noticeable increase in capacity:
+                        <ul>
+                            <li>How to allocate reagents to the laboratories, and</li>
+                            <li>whether to send swabs collected in one region to labs in other regions.</li>
+                        </ul>
+                    </p>
+                    <p>
+                        We use the Italian healthcare system as a case study.
+                        The healthcare system in Italy is organised on a regional basis and <strong>cross-regional</strong> collaboration isn't as developed as it could.
+                        We argue that this results in missed optimisation opportunities, and we provide some data to support this hypothesis.
+                    </p>
+                </div>
+            </section>
+
+            <section id="italy-dashboard">
+                <div class="row justify-content-center">
+                    <div class="col-xl-6">
+                        <header>
+                            <h1><i class="fas fa-chart-line"></i>&nbsp;The situation in Italy</h1>
+                            <h2>01-13, April, 2020</h2>
+                        </header>
+
+                        <p>
+                            In this case study, we first report data provided by Italy's Civil Defence Department for the first thirteen days of April.
+                        </p>
+                    </div>
+                </div>
+                <div class="row larger-portion px-xl-4 justify-content-center">
+                    <div class="col-xl-5 larger-portion-inset">
+                        <p>
+                            The following map shows how many swabs each region tested, over the whole period.
+                        </p>
+    
+                        <div id="italy-map"></div>
+                    </div>
+                    <div class="col-xl-5 larger-portion-inset">
+                        <p>
+                            The chart below shows the total number of swabs tested in Italy, day by day.
+                        </p>
+    
+                        <div id="italy-chart"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="italy-optimisation">
+                <div class="row justify-content-center">
+                    <div class="col-xl-6">
+                        <header>
+                            <h1><i class="fas fa-cogs"></i>&nbsp;Applying optimisation</h1>
+                        </header>
+
+                        <p>
+                            The following dashboard shows the increase in test capacity when applying optimisation techniques.
+                            We consider four scenarios:
+                            <ol>
+                                <li>A central authority organises the distribution of reagents to the laboratories; swabs collected in one region are still assigned to labs in the same region.</li>
+                                <li>As in scenario 1, but swabs can also be assigned to out-of-region labs, as long as they are within 100Km from an in-region laboratory.</li>
+                                <li>As in scenario 2, but allowing a radius of 200Km, which still allows swabs to be transported within a few hours.</li>
+                                <li>As in scenario 2, but allowing a radius of 400Km, which allows for overnight transport of swabs. Sardinia is an exception, as overnight transport wouldn't be feasible.</li>
+                            </ol>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center">
+                    <div class="col-xl-3">
+                        <div class="card">
+                            <div class="card-header" style="text-align: center; font-weight: bold;">
+                                Model: <span id="model-name"></span>
+                            </div>
+                            <div class="card-body" style="text-align: center">
+                                Swabs tested: <span id="model-gain" class="text-success"></span>
+
+                                <div id="scenario-selector">
+                                    <p>
+                                        Use the slider below to choose the model:
+                                    </p>
+                                    <form>
+                                        <input id="scenario-selector-slider" value="0"/>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row larger-portion px-xl-4 justify-content-center">
+                    <div class="col-xl-5 larger-portion-inset">
+                        <p>
+                            The following map shows how Italian laboratories can test each other's swabs under the assumptions of the current model.
+                            If there is a line between two labs, they can transfer swabs among themselves, effectively sharing their capacities.
+                        </p>
+
+                        <div id="scenario-labs-clusters"></div>
+                    </div>
+
+                    <div class="col-xl-5 larger-portion-inset">
+                        <p>
+                            In <span style="color:#d70206">dark red</span>, the swabs tested, day by day, in Italy during the period 01-13 April, 2020.
+                            In <span style="color:#f05b4f">light red</span>, how many swabs could have been tested, if optimising the assignment of reagents and swabs, using the optimisation model.
+                        </p>
+                        <div id="scenario-swabs-tested"></div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <script src="italy-tested-swabs.js"></script>
+        <script src="italy-tested-swabs-daily.js"></script>
+        <script src="italy-regions.js"></script>
+        <script src="italy-tests-models.js"></script>
+        <script src="lf-labs.js"></script>
+        <script src="lf-lines-Regional.js"></script>
+        <script src="lf-lines-100Km.js"></script>
+        <script src="lf-lines-200Km.js"></script>
+        <script src="lf-lines-400Km.js"></script>
+        <script src="covid-italy-map.js"></script>
+        <script src="covid-italy-chart2.js"></script>
+        <script src="covid-scenario.js"></script>
+    </body>
+</html>

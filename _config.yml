@@ -1,0 +1,7 @@
+title: Alberto Santini
+email: santini.alberto@gmail.com
+description: >-
+  Home page of Alberto Santini.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://santini.in/" # the base hostname & protocol for your site, e.g. http://example.com
+remote_theme:  riggraz/no-style-please

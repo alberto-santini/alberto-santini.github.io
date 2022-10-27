@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Aggregate results</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.1/nv.d3.min.css">
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+      
+    <style>
+    .chart-area {
+      padding: 1em 2em 1em 1em;
+      border-right: 1px solid #ddd;
+      min-width: 800px;
+      min-height: 750px;
+    }
+    .chart-area svg {
+      width: 100%;
+      height: 600px;
+      overflow: visible;
+    }
+    .control-area {
+      padding: 1em;
+    }
+    label {
+      margin-top: 1em;
+    }
+    button {
+      margin-top: 2em;
+    }
+    .bar-tooltip {
+      padding: 0.5em;
+    }
+    .bar-tooltip .bar-colour {
+      min-width: 16px;
+      min-height: 16px;
+      width: 16px;
+      height: 16px;
+      border: 1px solid black;
+      float: left;
+      margin-right: 0.5em;
+    }
+    </style>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-8 chart-area">
+          <header>
+            <h3>Chart<!--&nbsp;<span class="glyphicon glyphicon-stats"></span>--></h3>
+          </header>
+          <svg class="chart"></svg>
+        </div>
+        <div class="col-md-4 control-area">
+          <header>
+            <h3>Settings<!--&nbsp;<span class="glyphicon glyphicon-wrench"></span>--></h3>
+          </header>
+          <label for="problem">Select problem:&nbsp;<span class="glyphicon glyphicon-knight"></span></label><br/>
+          <select name="problem" id="problem">
+            <option value="CMST">CMST</option>
+            <option value="CVRP">CVRP</option>
+            <option value="Simple_CVRP">Simple CVRP</option>
+          </select><br/>
+          <label for="parameter">Select parameter:&nbsp;<span class="glyphicon glyphicon-cog"></span></label><br/>
+          <select name="parameter" id="parameter">
+            <option value="iteration_of_last_accepted_solution">Iteration of last accepted solution</option>
+            <option value="iteration_of_last_improvement_on_best">Iteration of last improvement on best</option>
+            <option value="longest_reject_streak">Longest reject streak</option>
+            <option value="max_distance_btw_accepted">Max distance between two (consecutive) accepted solutions</option>
+            <option value="max_distance_from_initial">Max distance from initial solution</option>
+            <option value="number_of_accepted_solutions">Number of accepted solutions</option>
+            <option value="number_of_solutions_better_than_best">Number of solutions improving on global best</option>
+            <option value="number_of_solutions_better_than_current">Number of solutions improving on current</option>
+            <option value="tot_distance_by_accepted">Total distance travelled by accepted solutions</option>
+            <option value="relative_avg_accepted_obj">Average accepted obj (relative to best)</option>
+            <option value="relative_avg_rejected_obj">Average rejected obj (relative to best)</option>
+            <option value="deviation_method_avg_and_best">Deviation (%) btw average from method and best of all methods</option>
+            <option value="deviation_method_best_and_best">Deviation (%) btw best from method and best of all methods</option>
+          </select><br/>
+          <button class="btn btn-default" id="btn-update">Update</button>
+        </div>
+      </div>      
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.1/nv.d3.min.js"></script>
+    <script>
+    var getData = function(problem, parameter, param_name) {
+      var d;
+      $.ajax({
+        url: "aggregate/" + parameter + "_" + problem + ".json",
+        dataType: 'json',
+        async: false
+      }).success(function(data) {
+        d = {key: problem + " - " + param_name, values: []};
+        $.each(data, function(key, val) {
+          d['values'].push({label: key, value: val})
+        });
+      });
+      return [d];
+    };
+    var createGraph = function() {
+      d3.selectAll("svg > *").remove();
+      nv.addGraph(function() {
+        var problem = $('#problem').val();
+        var parameter = $('#parameter').val();
+        var parameter_name = $('#parameter option:selected').text();
+      
+        var chart = nv.models.discreteBarChart()
+          .x(function(d) { return d.label.replace(problem, "").replace(/_/g, " ") })
+          .y(function(d) { return d.value })
+          .showValues(false);
+      
+        chart.tooltip.contentGenerator(
+          function(obj) {
+            lab = obj.data.label.replace(problem, "").replace(/_/g, " ");
+            val = obj.data.value.toFixed(2);
+            return "<div class=\"bar-tooltip\"><div class=\"bar-colour\" style=\"background-color: " + obj.color + "\"></div><b>" + lab + "</b>: " + val + "</div>";
+          }
+        );
+      
+        chart.xAxis.rotateLabels(-45);
+      
+        d3.select('svg.chart')
+          .datum(getData(problem, parameter, parameter_name))
+          .call(chart);
+        nv.utils.windowResize(chart.update);
+      
+        return chart;
+      });
+    }
+    $("#btn-update").click(function() { createGraph(); });
+    createGraph();
+    </script>
+  </body>
+</html>

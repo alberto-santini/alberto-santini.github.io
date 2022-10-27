@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<title>Energy-efficient trains</title>
+		
+		<link rel="stylesheet" href="css/bs.css">
+		<link rel="stylesheet" href="css/bss.css">
+		<link rel="stylesheet" href="css/nv.css">
+		<link rel="stylesheet" href="css/main.css">
+		
+		<script src="js/jq.js"></script>
+		<script src="js/bs.js"></script>
+		<script src="js/bss.js"></script>
+		<script src="js/d3.js"></script>
+		<script src="js/nv.js"></script>
+	</head>
+	<body>
+		<div class="container-fluid" id="main-content">
+			<div class="row">
+				<div class="col-md-12">
+					<header>
+						<h1>Energy-efficient trains</h1>
+					</header>
+				</div>
+			</div>
+			<hr>
+			<div class="row">
+				<div class="col-md-8">
+					<div id="position-speed-canvas">
+						<svg></svg>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div id="parameters-dashboard">
+						<strong>Tractive effort (N)</strong><br>
+						<div class="control-group">
+							<dl>
+								<dt>When <dfn>Speed ≤ 4.2 m/s</dfn></dt>
+								<dd><input type="text" class="abo-num-inline" name="f1"></dd>
+								<dt>When <dfn>4.2 m/s ≤ Speed ≤ 24.9 m/s</dfn></dt>
+								<dd><input type="text" class="abo-num-inline" name="f2"> - <input type="text" class="abo-num-inline" name="fv2"> * Speed</dd>
+								<dt>When <dfn>24.9 m/s ≤ Speed</dfn></dt>
+								<dd><input type="text" class="abo-num-inline" name="f3"> - <input type="text" class="abo-num-inline" name="fv3"> * Speed</dd>
+							</dl>
+						</div>
+						<hr>
+						<strong>Braking force (N)</strong>
+						<div class="control-group">
+							<input type="text" class="slider pull-left abo-slider" name="brk-slider">
+							<input type="text" class="pull-right abo-num" name="brk">
+						</div>
+						<hr>
+						<strong>Mass (Kg)</strong>
+						<div class="control-group">
+							<input type="text" class="slider pull-left abo-slider" name="mass-slider">
+							<input type="text" class="pull-right abo-num" name="mass">
+						</div>
+						<hr>
+						<strong>Switching points (m)</strong><br>
+						<div class="control-group">
+							Max acceleration to cruise<br>
+							<input type="text" class="slider pull-left abo-slider" name="x1-slider">
+							<input type="text" class="pull-right abo-num" name="x1"><br><br>
+							Cruise to coast<br>
+							<input type="text" class="slider pull-left abo-slider" name="x2-slider">
+							<input type="text" class="pull-right abo-num" name="x2"><br><br>
+							Coast to max breaking<br>
+							<input type="text" class="slider pull-left abo-slider" name="x3-slider">
+							<input type="text" class="pull-right abo-num" name="x3">
+						</div>
+						<hr>
+						<strong>Track gradient (deg)</strong>
+						<div class="control-group">
+							<input type="text" class="slider pull-left abo-slider" name="theta-slider">
+							<input type="text" class="pull-right abo-num" name="theta">
+						</div>
+						<hr>
+						<strong>Davis equation coefficients</strong>
+						<div class="control-group">
+							<input type="text" name="a" class="abo-num-inline"> + <input type="text" name="b" class="abo-num-inline"> * Speed + <input type="text" name="c" class="abo-num-inline"> * Speed<sup>2</sup>
+						</div>
+						<hr>
+						<div>
+							<button class="btn btn-default" type="button" id="update-graph">Update</button>
+							<div class="pull-right" id="error-message" style="color: red"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="js/train_energy_data.js"></script>
+		<script src="js/plotter.js"></script>
+		<script src="js/dashboard.js"></script>
+	</body>
+</html>
