@@ -20,7 +20,7 @@ I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyou
 
 ## Publications
 
-* Santini, A. & Archetti, C. (2022). The Hazardous Orienteering Problem. Submitted.
+* Santini, A. & Archetti, C. (2022). The Hazardous Orienteering Problem. Networks (articles in advance).
     * [Preprint](files/papers/santini-archetti-2022.pdf)
     * [Repository](https://github.com/alberto-santini/hazardous-orienteering-problem)
 * Delorme, M. & Santini, A. (2022). Energy-efficient automated vertical farms. Omega, 109.
