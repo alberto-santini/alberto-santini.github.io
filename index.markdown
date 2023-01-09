@@ -20,6 +20,9 @@ I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyou
 
 ## Publications
 
+* Santini, A. & Malaguti, E. (2023). The min-Knapsack problem with compactness constraints and applications in statistics.
+    * [Preprint](files/papers/santini-malaguti-2023.pdf)
+    * [Repository](https://github.com/alberto-santini/min-knapsack-with-compactness)
 * Santini, A. & Archetti, C. (2022). The Hazardous Orienteering Problem. Networks (articles in advance).
     * [Preprint](files/papers/santini-archetti-2022.pdf)
     * [Repository](https://github.com/alberto-santini/hazardous-orienteering-problem)
