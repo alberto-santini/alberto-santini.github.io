@@ -20,9 +20,10 @@ I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyou
 
 ## Publications
 
-* Santini, A. & Malaguti, E. (2023). The min-Knapsack problem with compactness constraints and applications in statistics.
+* Santini, A. & Malaguti, E. (2023). The min-Knapsack problem with compactness constraints and applications in statistics. European Journal of Operational Research, in advance.
     * [Preprint](files/papers/santini-malaguti-2023.pdf)
     * [Repository](https://github.com/alberto-santini/min-knapsack-with-compactness)
+    * [Final version](https://www.sciencedirect.com/science/article/pii/S0377221723005593)
 * Santini, A., Schneider, M., Vidal, T., & Vigo, D. (2023). Decomposition strategies for vehicle routing heuristics. INFORMS Journal of Computing, 35.3.
     * [Preprint](files/papers/santini-schneider-vidal-vigo-2023.pdf)
     * [Repository](https://github.com/alberto-santini/cvrp-decomposition/)
