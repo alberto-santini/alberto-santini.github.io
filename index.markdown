@@ -4,7 +4,7 @@ title: Home Page of Alberto Santini
 
 ## About
 
-I am a Marie Skłodowska-Curie Fellow (Cofund EUTOPIA) at [ESSEC Business School](https://www.essec.edu), at the [Department of Information Systems, Decision Sciences and Statistics](https://isds-department.essec.edu/).
+I am a Marie Skłodowska-Curie Fellow at [ESSEC Business School](https://www.essec.edu), at the [Department of Information Systems, Decision Sciences and Statistics](https://isds-department.essec.edu/).
 
 I am an affiliate professor at the [Data Science Centre](https://datascience.barcelonagse.eu/) of the [Barcelona School of Economics](https://bse.eu), the [Barcelona Graduate School of Mathematics](https://bgsmath.cat) and [CY Advanced Studies](https://iea.u-cergy.fr/).
 
@@ -23,9 +23,10 @@ I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyou
 * Santini, A. & Malaguti, E. (2023). The min-Knapsack problem with compactness constraints and applications in statistics.
     * [Preprint](files/papers/santini-malaguti-2023.pdf)
     * [Repository](https://github.com/alberto-santini/min-knapsack-with-compactness)
-* Santini, A., Schneider, M., Vidal, T., & Vigo, D. (2023). Decomposition strategies for vehicle routing heuristics. To appead in the INFORMS Journal of Computing.
-    * [Preprint](files/papers/santini-schneider-vidal-vigo-2022.pdf)
+* Santini, A., Schneider, M., Vidal, T., & Vigo, D. (2023). Decomposition strategies for vehicle routing heuristics. INFORMS Journal of Computing, 35.3.
+    * [Preprint](files/papers/santini-schneider-vidal-vigo-2023.pdf)
     * [Repository](https://github.com/alberto-santini/cvrp-decomposition/)
+    * [Final version](https://pubsonline.informs.org/doi/10.1287/ijoc.2023.1288)
 * Santini, A. & Archetti, C. (2023). The Hazardous Orienteering Problem. Networks, 81.
     * [Preprint](files/papers/santini-archetti-2022.pdf)
     * [Repository](https://github.com/alberto-santini/hazardous-orienteering-problem)
