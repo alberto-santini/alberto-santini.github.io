@@ -20,7 +20,7 @@ I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyou
 
 ## Publications
 
-* Santini, A. & Malaguti, E. (2023). The min-Knapsack problem with compactness constraints and applications in statistics. European Journal of Operational Research, in advance.
+* Santini, A. & Malaguti, E. (2023). The min-Knapsack problem with compactness constraints and applications in statistics. European Journal of Operational Research, 321.1.
     * [Preprint](files/papers/santini-malaguti-2023.pdf)
     * [Repository](https://github.com/alberto-santini/min-knapsack-with-compactness)
     * [Final version](https://www.sciencedirect.com/science/article/pii/S0377221723005593)
