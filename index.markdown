@@ -4,19 +4,13 @@ title: Home Page of Alberto Santini
 
 ## About
 
-I am a Marie Skłodowska-Curie Fellow at [ESSEC Business School](https://www.essec.edu), at the [Department of Information Systems, Decision Sciences and Statistics](https://isds-department.essec.edu/).
+I am a tenure-track assistant professor at [Universitat Pompeu Fabra](https://www.upf.edu) in Barcelona, Spain.
+I am also an affiliate professor at the [Barcelona Graduate School of Mathematics](https://bgsmath.cat) and the [Data Science Centre](https://datascience.barcelonagse.eu/) of the [Barcelona School of Economics](https://bse.eu).
 
-I am an affiliate professor at the [Data Science Centre](https://datascience.barcelonagse.eu/) of the [Barcelona School of Economics](https://bse.eu), the [Barcelona Graduate School of Mathematics](https://bgsmath.cat) and [CY Advanced Studies](https://iea.u-cergy.fr/).
-
-While my fellowship is ongoing, I am on leave from a position as tenure-track assistant professor at [Universitat Pompeu Fabra](https://www.upf.edu) in Barcelona, Spain.
-
-I am a lecturer at the [Barcelona School of Management](https://www.bsm.upf.edu) and at [RWTH Business School](https://www.business-school.rwth-aachen.de).
-
-I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyoung.eu), two chapters bringing together young Operational Researchers in Italy and Europe, respectively.
-
+* [Curriculum Vitæ](files/cv.pdf)
 * [Google Scholar Profile](https://scholar.google.it/citations?user=4y_0xGoAAAAJ)
 * [Github Profile](https://github.com/alberto-santini/)
-* Contact: [alberto@santini.in](mailto:alberto@santini.in)
+* Contact: [alberto.santini@upf.edu](mailto:alberto.santini@upf.edu)
 
 ## Publications
 
@@ -87,7 +81,12 @@ I founded [AIROYoung](https://www.airoyoung.org) and [EUROYoung](https://euroyou
 * Santini, A., Friberg, H., & Ropke, S. (2015). A note on a model for quay crane scheduling with non-crossing constraints. Engineering Optimization, 47 (6), pp. 860–865.
     * [Preprint](files/papers/santini-friberg-ropke-2015.pdf)
     * [Final version](https://www.tandfonline.com/doi/full/10.1080/0305215X.2014.958731)
-    
+
+## Scientific organisations I founded
+
+* [EUROYoung](https://euroyoung.eu/), a Forum within the Association of European Operational Research Societies (EURO).
+* [AIROYoung](https://www.airoyoung.org/), the youth branch of the Italian Operational Research Association.
+
 ## Resources
 
 * [Companies working in Operational Research in Italy](https://santini.in/aziende-ricerca-operativa/).
