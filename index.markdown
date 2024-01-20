@@ -14,6 +14,10 @@ I am also an affiliate professor at the [Barcelona Graduate School of Mathematic
 
 ## Publications
 
+* Delle Donne, D., Santini, A., & Archetti, C. (2024). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches.
+    * [Preprint](files/papers/delle-donne-santini-archetti-2024.pdf)
+    * [Supplemental Material](files/papers/delle-donne-santini-archetti-SM-2024.pdf)
+    * [Repository](https://github.com/alberto-santini/public-transport-lmd)
 * Santini, A. & Malaguti, E. (2024). The min-Knapsack problem with compactness constraints and applications in statistics. **European Journal of Operational Research**, 321 (1), pp. 385-397.
     * [Preprint](files/papers/santini-malaguti-2023.pdf)
     * [Repository](https://github.com/alberto-santini/min-knapsack-with-compactness)
