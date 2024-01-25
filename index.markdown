@@ -14,6 +14,9 @@ I am also an affiliate professor at the [Barcelona Graduate School of Mathematic
 
 ## Publications
 
+* Mandal, M. P., Santini, A., & Archetti, C. (2024). Tactical workforce sizing and scheduling decisions for last-mile delivery.
+    * [Preprint](files/papers/mandal-santini-archetti-2024.pdf)
+    * [Repository](https://github.com/alberto-santini/lmd-sizing-scheduling)
 * Delle Donne, D., Santini, A., & Archetti, C. (2024). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches.
     * [Preprint](files/papers/delle-donne-santini-archetti-2024.pdf)
     * [Supplemental Material](files/papers/delle-donne-santini-archetti-SM-2024.pdf)
