@@ -45,7 +45,7 @@ I am also an affiliate professor at the [Barcelona Graduate School of Mathematic
     * [Preprint](files/papers/monaci-pike-burke-santini-2021.pdf)
     * [Repository](https://github.com/alberto-santini/tbkp/)
     * [Final version](https://www.sciencedirect.com/science/article/pii/S0305054822001253)
-* Santini, A., Schneider, M., Bartolini, E., & Lemos, V. (2021). The crop growth scheduling problem in vertical farming. **European Journal of Operational Research**, 294 (1), pp. 377-390.
+* Santini, A., Schneider, M., Bartolini, E., & Lemos, V. (2021). The crop growth planning problem in vertical farming. **European Journal of Operational Research**, 294 (1), pp. 377-390.
     * [Preprint](files/papers/santini-bartolini-schneider-greco-2021.pdf)
     * [Repository](https://github.com/alberto-santini/crop-growth-planning-vf/)
     * [Final version](https://www.sciencedirect.com/science/article/pii/S0377221721000643)
