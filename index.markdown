@@ -25,6 +25,10 @@ I am also an affiliate professor at the [Barcelona Graduate School of Mathematic
     * [Preprint](files/papers/santini-malaguti-2023.pdf)
     * [Repository](https://github.com/alberto-santini/min-knapsack-with-compactness)
     * [Final version](https://www.sciencedirect.com/science/article/pii/S0377221723005593)
+* Santini, A. (2024). Destination selection and flight scheduling for regional airlines at slot-constrained airports. **International Transactions in Operational Research**, in press.
+    * [Preprint](files/papers/santini-2024.pdf)
+    * [Repository](https://github.com/alberto-santini/rfsp-instances/)
+    * [Final version](https://onlinelibrary.wiley.com/doi/10.1111/itor.13505)
 * Santini, A., Schneider, M., Vidal, T., & Vigo, D. (2023). Decomposition strategies for vehicle routing heuristics. **INFORMS Journal on Computing**, 35.3, pp. 543-559.
     * [Preprint](files/papers/santini-schneider-vidal-vigo-2023.pdf)
     * [Repository](https://github.com/alberto-santini/cvrp-decomposition/)
