@@ -1,4 +1,6 @@
-# DMO 2024/25
+---
+title: DMO 2024/25
+---
 
 ## Lecture Notes
 
