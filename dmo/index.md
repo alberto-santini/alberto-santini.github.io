@@ -11,7 +11,7 @@ title: DMO 2024/25
 
 ## Extra Material - Papers
 
-1. [A Knapsack variant with applications in Statistics](../files/papers/santini-malaguti-2023.pdf)
+1. [A Knapsack Variant with Applications in Statistics](../files/papers/santini-malaguti-2023.pdf)
 
 ## Extra Material – Lecture Notes
 
