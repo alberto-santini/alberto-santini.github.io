@@ -7,6 +7,7 @@ title: DMO 2024/25
 1. [Introduction to Optimisation](files/01_introduction_to_optimisation.pdf)
 2. [Introduction to Linear Programming](files/02_introduction_to_linear_programming.pdf)
 3. [Introduction to Mixed-Integer Programming](files/03_introduction_to_mip.pdf)
+4. [The 0-1 Knapsack Problem](files/04_knapsack_problem.pdf)
 
 ## Extra Material – Lecture Notes
 
