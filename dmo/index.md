@@ -9,6 +9,10 @@ title: DMO 2024/25
 3. [Introduction to Mixed-Integer Programming](files/03_introduction_to_mip.pdf)
 4. [The 0-1 Knapsack Problem](files/04_knapsack_problem.pdf)
 
+## Extra Material - Papers
+
+1. [A Knapsack variant with applications in Statistics](../files/papers/santini-malaguti-2023.pdf)
+
 ## Extra Material – Lecture Notes
 
 1. [The Simplex Method](files/99a_simplex.pdf)
