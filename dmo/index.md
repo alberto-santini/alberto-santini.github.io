@@ -12,10 +12,10 @@ title: DMO 2024/25
 ## Extra Material – Lecture Notes
 
 1. [The Simplex Method](files/99a_simplex.pdf)
-2. [Linear Programming Duality](99b_lp_duality.pdf)
-3. [Complementary Slackness](99c_complementary_slackness.pdf)
-4. [Lagrangian Duality](99d_lagrangian_duality.pdf)
-5. [Smart Predict then Optimise](99e_spo.pdf)
+2. [Linear Programming Duality](files/99b_lp_duality.pdf)
+3. [Complementary Slackness](files/99c_complementary_slackness.pdf)
+4. [Lagrangian Duality](files/99d_lagrangian_duality.pdf)
+5. [Smart Predict then Optimise](files/99e_spo.pdf)
 
 ## Jupyter Notebooks
 
