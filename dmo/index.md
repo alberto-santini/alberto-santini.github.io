@@ -6,8 +6,14 @@ title: DMO 2024/25
 
 1. [Introduction to Optimisation](files/01_introduction_to_optimisation.pdf)
 2. [Introduction to Linear Programming](files/02_introduction_to_linear_programming.pdf)
-3. [Introduction to Mixed-Integer Programming](files/03_introduction_to_mip.pdf)
-4. [The 0-1 Knapsack Problem](files/04_knapsack_problem.pdf)
+3. [Introduction to Mixed-Integer Programming](files/03_introduction_to_mip.pdf) (Updated 04/10)
+4. [The 0-1 Knapsack Problem](files/04_knapsack_problem.pdf) (Updated 04/10)
+5. Max-flow and Min-cut Problems
+6. The Travelling Salesman Problem
+
+## Other Material
+
+1. [How to Take the Dual of a Linear Programme](files/dual-of-lp.pdf)
 
 ## Extra Material - Papers
 
