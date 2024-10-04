@@ -15,6 +15,10 @@ title: DMO 2024/25
 
 1. [How to Take the Dual of a Linear Programme](files/dual-of-lp.pdf)
 
+## Notebooks
+
+1. [LP Excerise](files/lp_exercise.ipynb)
+
 ## Extra Material - Papers
 
 1. [A Knapsack Variant with Applications in Statistics](../files/papers/santini-malaguti-2023.pdf)
