@@ -15,7 +15,7 @@ title: DMO 2024/25
 
 1. [How to Take the Dual of a Linear Programme](files/dual-of-lp.pdf)
 
-## Notebooks
+## Jupyter Notebooks
 
 1. [LP Excerise](files/notebooks/lp_exercise.ipynb)
 2. [Dynamic Programming for the 01-KP](files/notebooks/knapsack_dp.ipynb)
@@ -32,8 +32,6 @@ title: DMO 2024/25
 3. [Complementary Slackness](files/99c_complementary_slackness.pdf)
 4. [Lagrangian Duality](files/99d_lagrangian_duality.pdf)
 5. [Smart Predict then Optimise](files/99e_spo.pdf)
-
-## Jupyter Notebooks
 
 ## Group Assignment Proposals
 
