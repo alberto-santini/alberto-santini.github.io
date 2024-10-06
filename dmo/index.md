@@ -17,7 +17,9 @@ title: DMO 2024/25
 
 ## Notebooks
 
-1. [LP Excerise](files/lp_exercise.ipynb)
+1. [LP Excerise](files/notebooks/lp_exercise.ipynb)
+2. [Dynamic Programming for the 01-KP](files/notebooks/knapsack_dp.ipynb)
+3. [Branch-and-bound for the 01-KP](files/notebooks/knapsack_bb.ipynb)
 
 ## Extra Material - Papers
 
