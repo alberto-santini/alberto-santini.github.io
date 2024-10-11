@@ -19,7 +19,7 @@ title: DMO 2024/25
 
 1. [LP Excerise](files/notebooks/lp_exercise.ipynb)
 2. [A binary model for the 01-KP](files/notebooks/knapsack_mip.ipynb)
-3. [Branch-and-bound for the 01-KP](files/notebooks/knapsack_bb.ipynb) (Updated 10/10)
+3. [Branch-and-bound for the 01-KP](files/notebooks/knapsack_bb.ipynb) (Updated 11/10)
 4. [Dynamic Programming for the 01-KP](files/notebooks/knapsack_dp.ipynb)
 
 ## Extra Material - Papers
