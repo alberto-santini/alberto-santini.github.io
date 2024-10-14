@@ -22,7 +22,7 @@ title: DMO 2024/25
 3. [Branch-and-bound for the 01-KP](files/notebooks/knapsack_bb.ipynb) (Updated 10/10)
 4. [Dynamic Programming for the 01-KP](files/notebooks/knapsack_dp.ipynb)
 
-## Extra Material - Papers
+## Extra Material – Papers
 
 1. [A Knapsack Variant with Applications in Statistics](../files/papers/santini-malaguti-2023.pdf)
 
@@ -33,6 +33,12 @@ title: DMO 2024/25
 3. [Complementary Slackness](files/99c_complementary_slackness.pdf)
 4. [Lagrangian Duality](files/99d_lagrangian_duality.pdf)
 5. [Smart Predict then Optimise](files/99e_spo.pdf)
+
+## Extra Material – From Last Year
+
+1. [Midterm](files/prev/midterm.pdf) ([solutions](files/prev/midterm_solutions.pdf))
+2. [Final exam](files/prev/final.pdf)
+3. [Group projects](files/prev/group_projects.pdf)
 
 ## Group Assignment Proposals
 
