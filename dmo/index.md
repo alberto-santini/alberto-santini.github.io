@@ -14,6 +14,8 @@ title: DMO 2024/25
 ## Other Material
 
 1. [How to Take the Dual of a Linear Programme](files/dual-of-lp.pdf)
+2. [Extra notes to use as modelling exercise - Facility Location](files/ex_facility_location.pdf)
+3. [Extra notes to use as modelling exercise - Production Planning](files/ex_production_planning.pdf)
 
 ## Jupyter Notebooks
 
