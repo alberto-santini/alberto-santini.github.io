@@ -23,6 +23,8 @@ title: DMO 2024/25
 2. [A binary model for the 01-KP](files/notebooks/knapsack_mip.ipynb)
 3. [Branch-and-bound for the 01-KP](files/notebooks/knapsack_bb.ipynb) (Updated 11/10)
 4. [Dynamic Programming for the 01-KP](files/notebooks/knapsack_dp.ipynb)
+5. [Branch-and-cut for the TSP (integer separation)](files/notebooks/tsp_integer_bc.ipynb)
+6. [Branch-and-cut for the TSP (fractional separation)](files/notebooks/tsp_fracional_bc.ipynb)
 
 ## Extra Material – Papers
 
