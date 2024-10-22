@@ -46,6 +46,8 @@ title: DMO 2024/25
 
 ## Group Assignment Proposals
 
+1. [Group Assignment Proposals](files/prev/group_projects.pdf)
+
 ## Office Hours
 
 Please send an email in advance if you plan to come to one of the office hours below, or if you need to book a different day/time.
