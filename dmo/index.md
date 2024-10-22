@@ -55,5 +55,5 @@ Please send an email in advance if you plan to come to one of the office hours b
 1. October, 4 – After class
 2. October, 7 – After class
 3. October, 14 – After class
-4. October, 21 – 11:00 to 12:45
-5. October, 28 – 11:00 to 12:45
+4. October, 21 – 11:00 to 12:30
+5. October, 28 – 11:00 to 12:30
