@@ -8,7 +8,7 @@ title: DMO 2024/25
 2. [Introduction to Linear Programming](files/02_introduction_to_linear_programming.pdf)
 3. [Introduction to Mixed-Integer Programming](files/03_introduction_to_mip.pdf) (Updated 04/10)
 4. [The 0-1 Knapsack Problem](files/04_knapsack_problem.pdf) (Updated 07/10)
-5. [Max-flow and Min-cut Problems](files/05_max_flow_min_cut.pdf) (Updated 14/10)
+5. [Max-flow and Min-cut Problems](files/05_max_flow_min_cut.pdf) (Updated 16/10)
 6. [The Travelling Salesman Problem](files/06_tsp.pdf)
 
 ## Other Material
@@ -19,7 +19,7 @@ title: DMO 2024/25
 
 ## Jupyter Notebooks
 
-1. [LP Excerise](files/notebooks/lp_exercise.ipynb)
+1. [LP Exercise](files/notebooks/lp_exercise.ipynb)
 2. [A binary model for the 01-KP](files/notebooks/knapsack_mip.ipynb)
 3. [Branch-and-bound for the 01-KP](files/notebooks/knapsack_bb.ipynb) (Updated 11/10)
 4. [Dynamic Programming for the 01-KP](files/notebooks/knapsack_dp.ipynb)
