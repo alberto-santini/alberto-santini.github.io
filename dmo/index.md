@@ -46,7 +46,7 @@ title: DMO 2024/25
 
 ## Group Assignment Proposals
 
-1. [Group Assignment Proposals](files/prev/group_projects.pdf)
+1. [Group Assignment Proposals](files/group_projects.pdf)
 
 ## Office Hours
 
