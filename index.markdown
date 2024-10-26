@@ -4,7 +4,7 @@ title: Home Page of Alberto Santini
 
 ## About
 
-I am a tenure-track assistant professor and a "Ramon y Cajal" fellow at [Universitat Pompeu Fabra](https://www.upf.edu) in Barcelona, Spain.
+I am an associate professor of Operational Research and a "Ramon y Cajal" fellow at [Universitat Pompeu Fabra](https://www.upf.edu) in Barcelona, Spain.
 I am also an affiliate professor at the [Barcelona Graduate School of Mathematics](https://bgsmath.cat) and the [Data Science Centre](https://datascience.barcelonagse.eu/) of the [Barcelona School of Economics](https://bse.eu).
 
 * [Curriculum Vitæ](files/cv.pdf)
