@@ -11,11 +11,16 @@ title: DMO 2024/25
 5. [Max-flow and Min-cut Problems](files/05_max_flow_min_cut.pdf) (Updated 16/10)
 6. [The Travelling Salesman Problem](files/06_tsp.pdf)
 
-## Other Material
+## Relevant Material
 
 1. [How to Take the Dual of a Linear Programme](files/dual-of-lp.pdf)
-2. [Extra notes to use as modelling exercise - Facility Location](files/ex_facility_location.pdf)
-3. [Extra notes to use as modelling exercise - Production Planning](files/ex_production_planning.pdf)
+2. [Extra notes to use as modelling exercise - Facility Location](files/ex_facility_location.pdf) (Updated 26/11)
+3. [Book problems on Facility Location - Solutions to select problems are given in the Extra notes above](files/ex_facility_location_book.pdf)
+4. [Extra notes to use as modelling exercise - Production Planning](files/ex_production_planning.pdf)
+
+## Group Assignment Proposals
+
+1. [Group Assignment Proposals](files/group_projects.pdf)
 
 ## Jupyter Notebooks
 
@@ -26,11 +31,11 @@ title: DMO 2024/25
 5. [Branch-and-cut for the TSP (integer separation)](files/notebooks/tsp_integer_bc.ipynb)
 6. [Branch-and-cut for the TSP (fractional separation)](files/notebooks/tsp_fracional_bc.ipynb)
 
-## Extra Material – Papers
+## Extra Material – Not part of the syllabus - Papers
 
 1. [A Knapsack Variant with Applications in Statistics](../files/papers/santini-malaguti-2023.pdf)
 
-## Extra Material – Lecture Notes
+## Extra Material – Not part of the syllabus - Lecture Notes
 
 1. [The Simplex Method](files/99a_simplex.pdf)
 2. [Linear Programming Duality](files/99b_lp_duality.pdf)
@@ -43,10 +48,6 @@ title: DMO 2024/25
 1. [Midterm](files/prev/midterm.pdf) ([solutions](files/prev/midterm_solutions.pdf))
 2. [Final exam](files/prev/final.pdf)
 3. [Group projects](files/prev/group_projects.pdf)
-
-## Group Assignment Proposals
-
-1. [Group Assignment Proposals](files/group_projects.pdf)
 
 ## Office Hours
 
