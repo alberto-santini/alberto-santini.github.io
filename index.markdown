@@ -6,6 +6,7 @@ title: Home Page of Alberto Santini
 
 I am an associate professor of Operational Research and a "Ramon y Cajal" fellow at [Universitat Pompeu Fabra](https://www.upf.edu) in Barcelona, Spain.
 I am also an affiliate professor at the [Barcelona Graduate School of Mathematics](https://bgsmath.cat) and the [Data Science Centre](https://datascience.barcelonagse.eu/) of the [Barcelona School of Economics](https://bse.eu).
+During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R. Society](https://seio-transporte.github.io/).
 
 * [Curriculum Vitæ](files/cv.pdf)
 * [Google Scholar Profile](https://scholar.google.it/citations?user=4y_0xGoAAAAJ)
@@ -14,15 +15,15 @@ I am also an affiliate professor at the [Barcelona Graduate School of Mathematic
 
 ## Publications
 
-* Mandal, M. P., Santini, A., & Archetti, C. (2024). Tactical workforce sizing and scheduling decisions for last-mile delivery.
-    * [Preprint](files/papers/mandal-santini-archetti-2024.pdf)
+* Mandal, M. P., Santini, A., & Archetti, C. (2025). Tactical workforce sizing and scheduling decisions for last-mile delivery. Accepted, to appear in the **European Journal of Operational Research**.
+    * [Preprint](files/papers/mandal-santini-archetti-2025.pdf)
     * [Repository](https://github.com/alberto-santini/lmd-sizing-scheduling)
-* Delle Donne, D., Santini, A., & Archetti, C. (2024). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches.
-    * [Preprint](files/papers/delle-donne-santini-archetti-2024.pdf)
-    * [Supplemental Material](files/papers/delle-donne-santini-archetti-SM-2024.pdf)
+* Delle Donne, D., Santini, A., & Archetti, C. (2025). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches.
+    * [Preprint](files/papers/delle-donne-santini-archetti-2025.pdf)
+    * [Supplemental Material](files/papers/delle-donne-santini-archetti-SM-2025.pdf)
     * [Repository](https://github.com/alberto-santini/public-transport-lmd)
 * Santini, A. & Malaguti, E. (2024). The min-Knapsack problem with compactness constraints and applications in statistics. **European Journal of Operational Research**, 321 (1), pp. 385-397.
-    * [Preprint](files/papers/santini-malaguti-2023.pdf)
+    * [Preprint](files/papers/santini-malaguti-2024.pdf)
     * [Repository](https://github.com/alberto-santini/min-knapsack-with-compactness)
     * [Final version](https://www.sciencedirect.com/science/article/pii/S0377221723005593)
 * Santini, A. (2024). Destination selection and flight scheduling for regional airlines at slot-constrained airports. **International Transactions in Operational Research**, in press.
@@ -34,7 +35,7 @@ I am also an affiliate professor at the [Barcelona Graduate School of Mathematic
     * [Repository](https://github.com/alberto-santini/cvrp-decomposition/)
     * [Final version](https://pubsonline.informs.org/doi/10.1287/ijoc.2023.1288)
 * Santini, A. & Archetti, C. (2023). The Hazardous Orienteering Problem. **Networks**, 81 (2), pp. 235-252.
-    * [Preprint](files/papers/santini-archetti-2022.pdf)
+    * [Preprint](files/papers/santini-archetti-2023.pdf)
     * [Repository](https://github.com/alberto-santini/hazardous-orienteering-problem)
     * [Final version](https://onlinelibrary.wiley.com/doi/10.1002/net.22129)
 * Delorme, M. & Santini, A. (2022). Energy-efficient automated vertical farms. **Omega**, 109, Article ID 102611.
@@ -46,7 +47,7 @@ I am also an affiliate professor at the [Barcelona Graduate School of Mathematic
     * [Repository](https://github.com/alberto-santini/ptspc-instances/)
     * [Final version](https://www.sciencedirect.com/science/article/pii/S0305054822000259)
 * Monaci, M., Pike-Burke, C., & Santini, A. (2022). Exact algorithms for the 0-1 time-bomb knapsack problem. **Computers & Operations Research**, 145, Article ID 105848.
-    * [Preprint](files/papers/monaci-pike-burke-santini-2021.pdf)
+    * [Preprint](files/papers/monaci-pike-burke-santini-2022.pdf)
     * [Repository](https://github.com/alberto-santini/tbkp/)
     * [Final version](https://www.sciencedirect.com/science/article/pii/S0305054822001253)
 * Santini, A., Schneider, M., Bartolini, E., & Lemos, V. (2021). The crop growth planning problem in vertical farming. **European Journal of Operational Research**, 294 (1), pp. 377-390.
@@ -57,7 +58,7 @@ I am also an affiliate professor at the [Barcelona Graduate School of Mathematic
     * [Preprint](files/papers/santini-blum-djukanovic-2021.pdf)
     * [Final version](https://www.sciencedirect.com/science/article/abs/pii/S0305054820302069)
 * Santini, A. (2021). Optimising the assignment of swabs and reagents for PCR testing during a viral epidemic. **Omega**, 102, Article ID 102341.
-    * [Preprint](files/papers/santini-2020.pdf)
+    * [Preprint](files/papers/santini-2021.pdf)
     * [Repository](https://github.com/alberto-santini/covid-optimisation/)
     * [Website](projects/covid/index.html)
     * [Final version](https://www.sciencedirect.com/science/article/pii/S0305048320306952)
@@ -70,7 +71,7 @@ I am also an affiliate professor at the [Barcelona Graduate School of Mathematic
     * [Repository](https://github.com/alberto-santini/orienteering-alns/)
     * [Final version](https://www.sciencedirect.com/science/article/abs/pii/S0957417418308182)
 * Santini, A., Ropke, S., & Hvattum, L. (2018). A comparison of acceptance criteria for the Adaptive Large Neighbourhood Search metaheuristic. **Journal of Heuristics**, 24 (5), pp. 783–815.
-    * [Preprint](files/papers/santini-ropke-hvattum-2017.pdf)
+    * [Preprint](files/papers/santini-ropke-hvattum-2018.pdf)
     * [Repository](https://github.com/alberto-santini/adaptive-large-neighbourhood-search/)
     * [Final version](https://link.springer.com/article/10.1007/s10732-018-9377-x)
 * Malaguti, E., Martello, S., & Santini, A. (2018). The Traveling Salesman Problem with Pickups, Deliveries, and Draft Limits. **Omega**, 74, pp. 50–58.
@@ -78,7 +79,7 @@ I am also an affiliate professor at the [Barcelona Graduate School of Mathematic
     * [Repository](https://github.com/alberto-santini/tsppddl/)
     * [Final version](https://www.sciencedirect.com/science/article/abs/pii/S0305048317300518)
 * Furini, F., Malaguti, E., & Santini, A. (2018). An Exact Algorithm for the Partition Coloring Problem. **Computers & Operations Research**, 92, pp. 170–181.
-    * [Preprint](files/papers/furini-malaguti-santini-2017.pdf)
+    * [Preprint](files/papers/furini-malaguti-santini-2018.pdf)
     * [Repository](https://github.com/alberto-santini/selective-graph-colouring/)
     * [Final version](https://www.sciencedirect.com/science/article/abs/pii/S0305054817303192)
 * Santini, A., Ropke, S., & Plum, C. (2017). A branch-and-price approach to the Feeder Network Design Problem. **European Journal of Operational Research**, 264 (2), pp. 607–622.
