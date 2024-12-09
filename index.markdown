@@ -18,6 +18,10 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Mandal, M. P., Santini, A., & Archetti, C. (2025). Tactical workforce sizing and scheduling decisions for last-mile delivery. Accepted, to appear in the **European Journal of Operational Research**.
     * [Preprint](files/papers/mandal-santini-archetti-2025.pdf)
     * [Repository](https://github.com/alberto-santini/lmd-sizing-scheduling)
+* Santini, A. (2025). Destination selection and flight scheduling for regional airlines at slot-constrained airports. **International Transactions in Operational Research**, 32 (3), pp. 1400-1421.
+    * [Preprint](files/papers/santini-2025.pdf)
+    * [Repository](https://github.com/alberto-santini/rfsp-instances/)
+    * [Final version](https://onlinelibrary.wiley.com/doi/10.1111/itor.13505)
 * Delle Donne, D., Santini, A., & Archetti, C. (2025). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches.
     * [Preprint](files/papers/delle-donne-santini-archetti-2025.pdf)
     * [Supplemental Material](files/papers/delle-donne-santini-archetti-SM-2025.pdf)
@@ -26,10 +30,6 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     * [Preprint](files/papers/santini-malaguti-2024.pdf)
     * [Repository](https://github.com/alberto-santini/min-knapsack-with-compactness)
     * [Final version](https://www.sciencedirect.com/science/article/pii/S0377221723005593)
-* Santini, A. (2024). Destination selection and flight scheduling for regional airlines at slot-constrained airports. **International Transactions in Operational Research**, in press.
-    * [Preprint](files/papers/santini-2024.pdf)
-    * [Repository](https://github.com/alberto-santini/rfsp-instances/)
-    * [Final version](https://onlinelibrary.wiley.com/doi/10.1111/itor.13505)
 * Santini, A., Schneider, M., Vidal, T., & Vigo, D. (2023). Decomposition strategies for vehicle routing heuristics. **INFORMS Journal on Computing**, 35.3, pp. 543-559.
     * [Preprint](files/papers/santini-schneider-vidal-vigo-2023.pdf)
     * [Repository](https://github.com/alberto-santini/cvrp-decomposition/)
