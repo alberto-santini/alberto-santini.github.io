@@ -15,9 +15,10 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 
 ## Publications
 
-* Mandal, M. P., Santini, A., & Archetti, C. (2025). Tactical workforce sizing and scheduling decisions for last-mile delivery. Accepted, to appear in the **European Journal of Operational Research**.
+* Mandal, M. P., Santini, A., & Archetti, C. (2025). Tactical workforce sizing and scheduling decisions for last-mile delivery. Available on-line (in advance) in the **European Journal of Operational Research**.
     * [Preprint](files/papers/mandal-santini-archetti-2025.pdf)
     * [Repository](https://github.com/alberto-santini/lmd-sizing-scheduling)
+    * [Final version](https://www.sciencedirect.com/science/article/pii/S0377221724009482)
 * Santini, A. (2025). Destination selection and flight scheduling for regional airlines at slot-constrained airports. **International Transactions in Operational Research**, 32 (3), pp. 1400-1421.
     * [Preprint](files/papers/santini-2025.pdf)
     * [Repository](https://github.com/alberto-santini/rfsp-instances/)
