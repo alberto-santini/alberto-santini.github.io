@@ -15,6 +15,10 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 
 ## Publications
 
+* Delle Donne, D., Santini, A., & Archetti, C. (2025). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches. Accepted, to appear in the **European Journal of Operational Research**.
+    * [Preprint](files/papers/delle-donne-santini-archetti-2025.pdf)
+    * [Supplemental Material](files/papers/delle-donne-santini-archetti-SM-2025.pdf)
+    * [Repository](https://github.com/alberto-santini/public-transport-lmd)
 * Mandal, M. P., Santini, A., & Archetti, C. (2025). Tactical workforce sizing and scheduling decisions for last-mile delivery. Available on-line (in advance) in the **European Journal of Operational Research**.
     * [Preprint](files/papers/mandal-santini-archetti-2025.pdf)
     * [Repository](https://github.com/alberto-santini/lmd-sizing-scheduling)
@@ -23,10 +27,6 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     * [Preprint](files/papers/santini-2025.pdf)
     * [Repository](https://github.com/alberto-santini/rfsp-instances/)
     * [Final version](https://onlinelibrary.wiley.com/doi/10.1111/itor.13505)
-* Delle Donne, D., Santini, A., & Archetti, C. (2025). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches.
-    * [Preprint](files/papers/delle-donne-santini-archetti-2025.pdf)
-    * [Supplemental Material](files/papers/delle-donne-santini-archetti-SM-2025.pdf)
-    * [Repository](https://github.com/alberto-santini/public-transport-lmd)
 * Santini, A. & Malaguti, E. (2024). The min-Knapsack problem with compactness constraints and applications in statistics. **European Journal of Operational Research**, 321 (1), pp. 385-397.
     * [Preprint](files/papers/santini-malaguti-2024.pdf)
     * [Repository](https://github.com/alberto-santini/min-knapsack-with-compactness)
