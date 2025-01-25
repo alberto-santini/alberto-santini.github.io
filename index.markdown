@@ -15,10 +15,11 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 
 ## Publications
 
-* Delle Donne, D., Santini, A., & Archetti, C. (2025). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches. Accepted, to appear in the **European Journal of Operational Research**.
+* Delle Donne, D., Santini, A., & Archetti, C. (2025). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches. Available on-line (in advance) in the **European Journal of Operational Research**.
     * [Preprint](files/papers/delle-donne-santini-archetti-2025.pdf)
     * [Supplemental Material](files/papers/delle-donne-santini-archetti-SM-2025.pdf)
     * [Repository](https://github.com/alberto-santini/public-transport-lmd)
+    * [Final version](https://www.sciencedirect.com/science/article/pii/S0377221724009901)
 * Mandal, M. P., Santini, A., & Archetti, C. (2025). Tactical workforce sizing and scheduling decisions for last-mile delivery. Available on-line (in advance) in the **European Journal of Operational Research**.
     * [Preprint](files/papers/mandal-santini-archetti-2025.pdf)
     * [Repository](https://github.com/alberto-santini/lmd-sizing-scheduling)
