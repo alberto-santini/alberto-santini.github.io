@@ -20,7 +20,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Delle Donne, D., Santini, A., & Archetti, C. (2025). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches. Available on-line (in advance) in the **European Journal of Operational Research**.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{delledonne2025fot,
             title={Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches},
             author={{Delle Donne}, Diego and Santini, Alberto and Archetti, Claudia},
@@ -29,7 +29,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             note={Available (in advance)},
             doi={10.1016/j.ejor.2024.12.047}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/delle-donne-santini-archetti-2025.pdf)
@@ -39,7 +39,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Mandal, M. P., Santini, A., & Archetti, C. (2025). Tactical workforce sizing and scheduling decisions for last-mile delivery. Available on-line (in advance) in the **European Journal of Operational Research**.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{mandal2025stability,
             title={Tactical workforce sizing and scheduling decisions for last-mile delivery},
             author={Mandal, Minakshi Punam and Santini, Alberto and Archetti, Claudia},
@@ -48,7 +48,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             note={Available (in advance)},
             doi={10.1016/j.ejor.2024.12.006}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/mandal-santini-archetti-2025.pdf)
@@ -57,7 +57,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Santini, A. (2025). Destination selection and flight scheduling for regional airlines at slot-constrained airports. **International Transactions in Operational Research**, 32 (3), pp. 1400-1421.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{santini2025regional,
             title={Destination selection and flight scheduling for regional airlines at slot-constrained airports},
             author={Santini, Alberto},
@@ -68,7 +68,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             pages={1400--1421},
             doi={10.1111/itor.13505}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/santini-2025.pdf)
@@ -77,7 +77,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Santini, A. & Malaguti, E. (2024). The min-Knapsack problem with compactness constraints and applications in statistics. **European Journal of Operational Research**, 321 (1), pp. 385-397.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{santini2024minknapsack,
             title={The min-Knapsack Problem with Compactness Constraints and Applications in Statistics},
             author={Santini, Alberto and Malaguti, Enrico},
@@ -88,7 +88,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             pages={385--397},
             doi={10.1016/j.ejor.2023.07.020}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/santini-malaguti-2024.pdf)
@@ -97,7 +97,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Santini, A., Schneider, M., Vidal, T., & Vigo, D. (2023). Decomposition strategies for vehicle routing heuristics. **INFORMS Journal on Computing**, 35.3, pp. 543-559.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{santini2023decomposition,
             title={Decomposition strategies for vehicle routing heuristics},
             author={Santini, Alberto and Schneider, Michael and Vidal, Thibaut and Vigo, Daniele},
@@ -108,7 +108,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             number=3,
             pages={543--559}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/santini-schneider-vidal-vigo-2023.pdf)
@@ -117,7 +117,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Santini, A. & Archetti, C. (2023). The Hazardous Orienteering Problem. **Networks**, 81 (2), pp. 235-252.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{santini2023hazardous,
             title={The hazardous orienteering problem},
             author={Santini, Alberto and Archetti, Claudia},
@@ -128,7 +128,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             issue=2,
             pages={235--252}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/santini-archetti-2023.pdf)
@@ -137,7 +137,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Delorme, M. & Santini, A. (2022). Energy-efficient automated vertical farms. **Omega**, 109, Article ID 102611.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{delorme2022elevator,
             title={Energy-efficient automated vertical farms},
             author={Delorme, Maxence and Santini, Alberto},
@@ -147,7 +147,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             year=2022,
             note={{Article ID 102611}}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/delorme-santini-2022.pdf)
@@ -156,7 +156,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Santini, A., Viana, A., Klimentova, X., & Pedroso, J.P. (2022). The probabilistic travelling salesman problem with crowdsourcing. **Computers & Operations Research**, 142, Article ID 105722.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{santini2022crowd,
             title={The probabilistic {Travelling Salesman Problem} with crowdsourcing},
             author={Santini, Alberto and Viana, Ana and Klimentova, Xenia and Pedroso, João Pedro},
@@ -166,7 +166,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             year=2022,
             note={{Article ID 105722}}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/santini-viana-klimentova-pedroso-2022.pdf)
@@ -175,7 +175,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Monaci, M., Pike-Burke, C., & Santini, A. (2022). Exact algorithms for the 0-1 time-bomb knapsack problem. **Computers & Operations Research**, 145, Article ID 105848.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{monaci2022tbkp,
             title={Exact algorithms for the 0--1 time-bomb knapsack problem},
             author={Monaci, Michele and Pike-Burke, Ciara and Santini, Alberto},
@@ -185,7 +185,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             year=2022,
             note={{Article ID 105848}}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/monaci-pike-burke-santini-2022.pdf)
@@ -194,7 +194,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Santini, A., Schneider, M., Bartolini, E., & Lemos, V. (2021). The crop growth planning problem in vertical farming. **European Journal of Operational Research**, 294 (1), pp. 377-390.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{santini2021vf,
             title={The crop growth planning problem in vertical farming},
             author={Santini, Alberto and Schneider, Michael and Bartolini, Enrico and Greco de Lemos, Vinicius},
@@ -205,7 +205,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             pages={377--390},
             doi={10.1016/j.ejor.2021.01.034}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/santini-bartolini-schneider-greco-2021.pdf)
@@ -214,7 +214,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Blum, C., Djukanovic, M., Santini, A., Jiang, H., Li, C.M., Manyà, F., & Raidl, G. (2021). Solving common longest subsequence problems via a transformation to the maximum clique problem. **Computers & Operations Research**, 125, Article ID 105089.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{blum2021commonss,
             title={Solving common longest subsequence problems via a transformation to the maximum clique problem},
             author={Blum, Christian and Djukanovic, Marko and Santini, Alberto and Jiang, Hua and Li, Chu-Min and Manyà, Felip and Raidl, Günter},
@@ -224,7 +224,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             doi={10.1016/j.cor.2020.105089},
             note={{Article ID 105089}}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/santini-blum-djukanovic-2021.pdf)
@@ -232,7 +232,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Santini, A. (2021). Optimising the assignment of swabs and reagents for PCR testing during a viral epidemic. **Omega**, 102, Article ID 102341.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{santini2021covid,
             title={Optimising the assignment of swabs and reagents for PCR testing during a viral epidemic},
             author={Santini, Alberto},
@@ -242,7 +242,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             doi={10.1016/j.omega.2020.102341},
             note={{Article ID 102341}}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/santini-2021.pdf)
@@ -252,7 +252,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Cornaz, D., Furini, F., Malaguti, E., & Santini, A. (2019). A note on selective line-graphs and partition colorings. **Operations Research Letters**, 47 (6), pp. 565–568.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{cornaz2019selective,
             title={A note on selective line-graphs and partition colorings},
             author={Cornaz, Denis and Furini, Fabio and Malaguti, Enrico and Santini, Alberto},
@@ -263,7 +263,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             pages={565--568},
             doi={10.1016/j.orl.2019.08.005}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/cornaz-furini-malaguti-santini-2019.pdf)
@@ -272,7 +272,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Santini, A. (2019). An Adaptive Large Neighbourhood Search Algorithm for the Orienteering Problem. **Expert Systems with Applications**, 123, pp. 154–167.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{santini2019op,
             title={An {Adaptive Large Neighbourhood Search} algorithm for the {Orienteering Problem}},
             author={Santini, Alberto},
@@ -282,7 +282,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             pages={154--167},
             doi={10.1016/j.eswa.2018.12.050}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/santini-2019.pdf)
@@ -291,7 +291,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Santini, A., Ropke, S., & Hvattum, L. (2018). A comparison of acceptance criteria for the Adaptive Large Neighbourhood Search metaheuristic. **Journal of Heuristics**, 24 (5), pp. 783–815.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{santini2018measuring,
             title={A comparison of acceptance criteria for the {Adaptive Large Neighbourhood Search} metaheuristic},
             author={Santini, Alberto and Ropke, Stefan and Hvattum, Lars Magnus},
@@ -302,7 +302,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             year=2018,
             doi={10.1007/s10732-018-9377-x}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/santini-ropke-hvattum-2018.pdf)
@@ -311,7 +311,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Malaguti, E., Martello, S., & Santini, A. (2018). The Traveling Salesman Problem with Pickups, Deliveries, and Draft Limits. **Omega**, 74, pp. 50–58.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{malaguti2018travelling,
             title={The {Traveling Salesman Problem} with Pickups, Deliveries, and Draft Limits},
             author={Malaguti, Enrico and Martello, Silvano and Santini, Alberto},
@@ -321,7 +321,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             year=2018,
             doi={10.1016/j.omega.2017.01.005}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/malaguti-martello-santini-2017.pdf)
@@ -330,7 +330,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Furini, F., Malaguti, E., & Santini, A. (2018). An Exact Algorithm for the Partition Coloring Problem. **Computers & Operations Research**, 92, pp. 170–181.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{furini2018branch,
             title={An Exact Algorithm for the {Partition Coloring Problem}},
             author={Furini, Fabio and Malaguti, Enrico and Santini, Alberto},
@@ -340,7 +340,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             year=2018,
             doi={10.1016/j.cor.2017.12.019}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/furini-malaguti-santini-2018.pdf)
@@ -349,7 +349,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Santini, A., Ropke, S., & Plum, C. (2017). A branch-and-price approach to the Feeder Network Design Problem. **European Journal of Operational Research**, 264 (2), pp. 607–622.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{santini2017feeder,
             title={A branch-and-price approach to the {Feeder Network Design Problem}},
             author={Santini, Alberto and Ropke, Stefan and Plum, Christian E.M.},
@@ -360,7 +360,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             year=2017,
             doi={10.1016/j.ejor.2017.06.063}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/santini-plum-ropke-2017.pdf)
@@ -369,7 +369,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Bettinelli, A., Santini, A., & Vigo, D. (2017). A real-time conflict solution algorithm for the Train Rescheduling Problem. **Transportation Research Part B: Methodological**, 106, pp. 237–265.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{bettinelli2017realtime,
             title={A real-time conflict solution algorithm for the {Train Rescheduling Problem}},
             author={Bettinelli, Andrea and Santini, Alberto and Vigo, Daniele},
@@ -379,7 +379,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             year=2017,
             doi={10.1016/j.trb.2017.10.005}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/bettinelli-santini-vigo-2017.pdf)
@@ -388,7 +388,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Santini, A., Friberg, H., & Ropke, S. (2015). A note on a model for quay crane scheduling with non-crossing constraints. **Engineering Optimization**, 47 (6), pp. 860–865.
     <details>
     <summary>Citation</summary>
-    <pre><code>
+    <pre><code>{% raw %}
         @article{santini2015note,
             title={A note on a model for quay crane scheduling with non-crossing constraints},
             author={Santini, Alberto and Friberg, Henrik Alsing and Ropke, Stefan},
@@ -399,7 +399,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
             year=2015,
             doi = {10.1080/0305215X.2014.958731}
         }
-    </code></pre>
+    {% endraw %}</code></pre>
     </details>
 
     * [Preprint](files/papers/santini-friberg-ropke-2015.pdf)
