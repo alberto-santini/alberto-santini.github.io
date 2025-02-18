@@ -36,7 +36,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     * [Supplemental Material](files/papers/delle-donne-santini-archetti-SM-2025.pdf)
     * [Repository](https://github.com/alberto-santini/public-transport-lmd)
     * [Final version](https://www.sciencedirect.com/science/article/pii/S0377221724009901)
-* Mandal, M. P., Santini, A., & Archetti, C. (2025). Tactical workforce sizing and scheduling decisions for last-mile delivery. Available on-line (in advance) in the **European Journal of Operational Research**.
+* Mandal, M. P., Santini, A., & Archetti, C. (2025). Tactical workforce sizing and scheduling decisions for last-mile delivery. **European Journal of Operational Research**, 323 (1), pp. 153-169.
     <details>
     <summary>Citation</summary>
     <pre><code style="color: black; background: inherit">{% raw %}
@@ -45,7 +45,9 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     author={Mandal, Minakshi Punam and Santini, Alberto and Archetti, Claudia},
     journal={European Journal of Operational Research},
     year=2025,
-    note={Available (in advance)},
+    volume=323,
+    issue=1,
+    pages={153--169},
     doi={10.1016/j.ejor.2024.12.006}
 }
     {% endraw %}</code></pre>
