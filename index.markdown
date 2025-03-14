@@ -16,7 +16,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 ## Publications
 
 * Santini, A., & Vaze, V. (2025). Integrated Schedule Planning for Regional Airlines Using Column Generation.
-    * [Preprint](files/paper/santini-vaze-2025.pdf)
+    * [Preprint](files/papers/santini-vaze-2025.pdf)
 * Delle Donne, D., Santini, A., & Archetti, C. (2025). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches. Available on-line (in advance) in the **European Journal of Operational Research**.
     <details>
     <summary>Citation</summary>
