@@ -2,7 +2,7 @@
 title: Open PhD position at Universitat Pompeu Fabra
 ---
 
-We are looking for a motivated candidate for a 4-year PhD position in Operational Research at Universitat Pompeu Fabra in Barcelona, Spain.
+We are seeking a motivated candidate for a 4-year PhD position in Operational Research at Universitat Pompeu Fabra in Barcelona, Spain.
 
 <div style="text-align:center; margin-top: 60px; margin-bottom: 80px;">
   <a style="background: #FF7F50; font-size: 125%; font-weight: bold; padding: 30px; border-radius: 20px; color: white !important; text-decoration: none;" href="https://forms.gle/XeQRfhp9pR4ofQaC6">Apply now!</a>
@@ -56,7 +56,7 @@ We also particularly encourage interdisciplinary research with professors in adj
 
 ## Timeline
 
-* Please complete the [form](https://forms.gle/XeQRfhp9pR4ofQaC6) as soon as possible and, in any case, before October 19. Remember to includ your CV and a recommendation letter.
+* Please complete the [form](https://forms.gle/XeQRfhp9pR4ofQaC6) as soon as possible and, in any case, before October 19. Remember to include your CV and a recommendation letter.
 * We will be reviewing applications and scheduling interviews continuously. During the interviews, we will explain how to submit your application through the official university system. This system will close on October 22.
 * Around two weeks after the end of the application procedure, a ranked list of candidates will be published, and the highest-ranked candidate will be offered the position.
 * In case of declining candidates, the position will be offered according to the ranking.
