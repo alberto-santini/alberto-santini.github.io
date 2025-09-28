@@ -49,6 +49,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     author={Malaguti, Enrico and Paronuzzi, Paolo and Santini, Alberto},
     journal={Optimization Letters},
     pubstatus={toappear},
+    doi={10.1007/s11590-025-02252-y},
     year=2026
 }
     {% endraw %}</code></pre>
