@@ -32,6 +32,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     author={Cavagnini, Rossana and Santini, Alberto and Schneider, Michael},
     journal={European Journal of Operational Research},
     pubstate={toappear},
+    doi={10.1016/j.ejor.2025.09.040},
     year=2026
 }
     {% endraw %}</code></pre>
