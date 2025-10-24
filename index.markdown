@@ -8,12 +8,6 @@ I am an associate professor of Operational Research and a "Ramon y Cajal" fellow
 I am also an affiliate professor at the [Barcelona Graduate School of Mathematics](https://bgsmath.cat) and the [Data Science Centre](https://datascience.barcelonagse.eu/) of the [Barcelona School of Economics](https://bse.eu).
 During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R. Society](https://seio-transporte.github.io/).
 
-<div style="text-align: center; border-top: 1px solid black; border-bottom: 1px solid black; padding-top: 1em; padding-bottom: 1em;">
-    <a href="/phd-position" style="color: #ED4645 !important; text-decoration: none;">
-        &gt;&gt;&gt; Open PhD Position! &lt;&lt;&lt;
-    </a>
-</div>
-
 * [Curriculum Vitæ](files/cv.pdf)
 * [Google Scholar Profile](https://scholar.google.it/citations?user=4y_0xGoAAAAJ)
 * [Github Profile](https://github.com/alberto-santini/)

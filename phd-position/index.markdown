@@ -2,6 +2,12 @@
 title: Open PhD position at Universitat Pompeu Fabra
 ---
 
+<div style="text-align: center; border-top: 1px solid black; border-bottom: 1px solid black; padding-top: 1em; padding-bottom: 1em;">
+    <p style="color: #ED4645 !important;">
+        &gt;&gt;&gt; The application period is now over! Thanks for your interest. &lt;&lt;&lt;
+    </p>
+</div>
+
 We are seeking a motivated candidate for a 4-year PhD position in Operational Research at Universitat Pompeu Fabra in Barcelona, Spain.
 
 <div style="text-align:center; margin-top: 60px; margin-bottom: 80px;">
