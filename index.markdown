@@ -17,7 +17,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 
 * Santini, A., & Vaze, V. (2026). Integrated Schedule Planning for Regional Airlines Using Column Generation.
     * [Preprint](files/papers/santini-vaze-2026.pdf)
-* Cavagnini, R., Santini, A., & Schneider, M. (2026). Recent Developments in Location Routing Problems – Deterministic, single-echelon, single-objective, single-period problems. To appear in: **European Journal of Operational Research***.
+* Cavagnini, R., Santini, A., & Schneider, M. (2026). Recent Developments in Location Routing Problems – Deterministic, single-echelon, single-objective, single-period problems. Available (online) in: **European Journal of Operational Research***.
     <details>
     <summary>Citation</summary>
     <pre><code style="color: black; background: inherit">{% raw %}
@@ -25,7 +25,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     title={Recent Developments in Location Routing Problems --- Deterministic, single-echelon, single-objective, single-period problems},
     author={Cavagnini, Rossana and Santini, Alberto and Schneider, Michael},
     journal={European Journal of Operational Research},
-    pubstate={toappear},
+    pubstate={online},
     doi={10.1016/j.ejor.2025.09.040},
     year=2026
 }
@@ -35,7 +35,8 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     * [Preprint](files/papers/cavagnini-santini-schneider-2026.pdf)
     * [Supplemental Material](files/papers/cavagnini-santini-schneider-SM-2026.pdf)
     * [Repository](https://github.com/alberto-santini/lrp-instances)
-* Malaguti, E., Paronuzzi, P., & Santini, A. (2026). Algorithms and Complexity Results for the 0–1 Knapsack Problem with Group Fairness. To appear in: **Optimization Letters**.
+    * [Final version](https://www.sciencedirect.com/science/article/pii/S0377221725007775)
+* Malaguti, E., Paronuzzi, P., & Santini, A. (2026). Algorithms and Complexity Results for the 0–1 Knapsack Problem with Group Fairness. Available (online) in: **Optimization Letters**.
     <details>
     <summary>Citation</summary>
     <pre><code style="color: black; background: inherit">{% raw %}
@@ -43,7 +44,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     title={Algorithms and Complexity Results for the 0--1 Knapsack Problem with Group Fairness},
     author={Malaguti, Enrico and Paronuzzi, Paolo and Santini, Alberto},
     journal={Optimization Letters},
-    pubstatus={toappear},
+    pubstatus={online},
     doi={10.1007/s11590-025-02252-y},
     year=2026
 }
@@ -52,6 +53,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     
     * [Preprint](files/papers/malaguti-paronuzzi-santini-2026.pdf)
     * [Repository](https://github.com/alberto-santini/kpgf)
+    * [Final version](https://link.springer.com/article/10.1007/s11590-025-02252-y)
 * Delle Donne, D., Santini, A., & Archetti, C. (2025). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches. **European Journal of Operational Research**, 324 (1), pp. 75-91.
     <details>
     <summary>Citation</summary>
