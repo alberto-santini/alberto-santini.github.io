@@ -17,6 +17,8 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 
 * Santini, A., & Vaze, V. (2026). Integrated Schedule Planning for Regional Airlines Using Column Generation.
     * [Preprint](files/papers/santini-vaze-2026.pdf)
+* Santini, A. (2026). Solving Berth Allocation Problems via Selective Graph Colouring.
+    * [Preprint](files/papers/santini-2026.pdf)
 * Cavagnini, R., Santini, A., & Schneider, M. (2025). Recent Developments in Location Routing Problems – Deterministic, single-echelon, single-objective, single-period problems. Available (online) in: **European Journal of Operational Research**.
     <details>
     <summary>Citation</summary>
