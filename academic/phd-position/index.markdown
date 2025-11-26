@@ -14,7 +14,7 @@ We are seeking a motivated candidate for a 4-year PhD position in Operational Re
   <a style="background: #FF7F50; font-size: 125%; font-weight: bold; padding: 30px; border-radius: 20px; color: white !important; text-decoration: none;" href="https://forms.gle/XeQRfhp9pR4ofQaC6">Apply now!</a>
 </div>
 <div style="text-align: center;">
-  <img width="600px" src="bcn_coast.jpg" alt="Barcelona"/>
+  <img width="600px" src="../../files/images/bcn_coast.jpg" alt="Barcelona"/>
 </div>
 
 ## The research project
@@ -33,7 +33,7 @@ Among his publications, the ones that most align with this project are the follo
 We also particularly encourage interdisciplinary research with professors in adjacent areas (e.g., the [Data Science Centre](https://datascience.bse.eu/team-gse/)).
 
 <div style="text-align: center;">
-  <img width="600px" src="upf_library.jpg" alt="Universitat Pompeu Fabra"/>
+  <img width="600px" src="../../files/images/upf_library.jpg" alt="Universitat Pompeu Fabra"/>
 </div>
 
 ## Requirements
@@ -44,7 +44,7 @@ We also particularly encourage interdisciplinary research with professors in adj
 * Candidates with proven experience in programming and data science are particularly appreciated.
 
 <div style="text-align: center;">
-  <img width="600px" src="bcn_beach.jpeg" alt="Barcelona"/>
+  <img width="600px" src="../../files/images/bcn_beach.jpeg" alt="Barcelona"/>
 </div>
 
 ## What we offer
@@ -57,7 +57,7 @@ We also particularly encourage interdisciplinary research with professors in adj
 * The university also has a comprehensive language-learning programme and numerous student associations.
 
 <div style="text-align: center;">
-  <img width="600px" src="bcn_scc.jpg" alt="Barcelona"/>
+  <img width="600px" src="../../files/images/bcn_scc.jpg" alt="Barcelona"/>
 </div>
 
 ## Timeline
@@ -69,7 +69,7 @@ We also particularly encourage interdisciplinary research with professors in adj
 * The contract can start between January and June 2026. The start date can be negotiated within this range (or, in exceptional cases, shortly after).
 
 <div style="text-align: center;">
-  <img width="600px" src="bcn_guell.jpg" alt="Barcelona"/>
+  <img width="600px" src="../../files/images/cn_guell.jpg" alt="Barcelona"/>
 </div>
 
 
