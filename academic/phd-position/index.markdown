@@ -4,7 +4,7 @@ title: Open PhD position at Universitat Pompeu Fabra
 
 <div style="text-align: center; border-top: 1px solid black; border-bottom: 1px solid black; padding-top: 1em; padding-bottom: 1em;">
     <p style="color: #ED4645 !important;">
-        &gt;&gt;&gt; The application period is now over! Thanks for your interest. &lt;&lt;&lt;
+        &gt;&gt;&gt; The application period is now over! &lt;&lt;&lt;
     </p>
 </div>
 
