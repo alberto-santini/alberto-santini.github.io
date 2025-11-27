@@ -2,7 +2,7 @@
 title: Operations Research Group
 ---
 
-We are hiring an outstanding tenure-track assistant professor in Operations Research or Operations Management.
+We are hiring an outstanding <b>tenure-track assistant professor</b> in Operations Research or Operations Management.
 This page describes the Operations Research group at UPF for potential interested candidates.
 
 <div style="text-align: center;">
@@ -21,7 +21,7 @@ Some interesting facts about our department:
 ## Affiliated institutions
 
 Most people working in Operations Research in our department are also part of the [Data Science Centre](https://datascience.bse.eu/) at the Barcelona School of Economics.
-Many other department members are also cross-appointed at other UPF-affiliated institutions as:
+Many other department members are also cross-appointed at other UPF-affiliated institutions.
 
 * Affiliate professors and/or part-time lecturers at the [Barcelona School of Economics](https://bse.eu/).
 * Affiliate professors at the [Barcelona Graduate School of Mathematics](https://bgsmath.cat/).
@@ -59,6 +59,13 @@ Here is a short list of some of our colleagues at the Stats and Business Analyti
 Here is a list of recent publications in Operations Research of members of the Stats and Business Analytics groups.
 
 <table>
+<tr>
+  <td style="border-style: hidden;"><div style="display: flex; align-items: center; margin: 1em; width: 100%;"><img src="../../files/images/ejor.gif" height=92 style="margin-right: 1em;" alt="EJOR"/>
+    <div>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0377221724009901">Integrating public transport in sustainable last-mile delivery: Column generation approaches</a>. Diego Delle Donne, <b>Alberto Santini</b>, Claudia Archetti. 2025.
+    </div>
+  </div></td>
+</tr>
 <tr>
   <td style="border-style: hidden;"><div style="display: flex; align-items: center; margin: 1em; width: 100%;"><img src="../../files/images/ijoc.png" height=92 style="margin-right: 1em;" alt="INFORMS Journal on Computing"/>
     <div>
