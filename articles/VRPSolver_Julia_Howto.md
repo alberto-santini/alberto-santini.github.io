@@ -1,4 +1,8 @@
-### Requirements
+---
+title: How to install the VRPSolver and its Julia interface
+---
+
+# Requirements
 
 **BaPCodVRPSolver** needs:
 
@@ -25,13 +29,13 @@ The RCSP library comes precompiled and the only way to get it is by contacting R
 The above requirements must be installed in a particular order, and they require some extra step to ensure that everything works properly.
 The following describes the installation process I followed.
 
-### Step 0: prepare a local folder where everything will be installed
+# Step 0: prepare a local folder where everything will be installed
 
 ```
 mkdir -p ~/local/vrpsolver
 ```
 
-### Step 1: Install Julia 1.5.4
+# Step 1: Install Julia 1.5.4
 
 ```
 tar xf julia-1.5.4-full.tar.gz -C ~/local/vrpsolver
@@ -56,11 +60,11 @@ This was fixed in a later version of Julia, so I just had to backport the fix.
 I applied the diff in [this commit](https://github.com/JuliaLang/julia/pull/41860/commits/8f560f4e7e08b06daefa8efdfcecc239472680dc).
 3. Finally, there was a double definition of a symbol in `libunwind`.
 To fix it, I had to edit `deps/srccache/libunwind-1.3.1/src/x86_64/Ginit.c` as per the diff in [this commit](https://github.com/libunwind/libunwind/commit/29e17d8d2ccbca07c423e3089a6d5ae8a1c9cb6e).
-(Well, the commit fixes `Ginit.c` for all architectures. To be honest I only bothered to apply the change to the architecture relevant to me, hence the "`x86_64`" in the above path.)
+(Well, the commit fixes `Ginit.c` for all architectures. I only bothered to apply the change to the architecture relevant to me, hence the "`x86_64`" in the above path.)
 
 With all of this in place, I could finally compile Julia version `1.5.4` with my modern GCC toolchain!
 
-#### Step 2: Install BaPCod
+# Step 2: Install BaPCod
 
 After getting the tarball from [the website](https://bapcod.math.u-bordeaux.fr/), we unpack it:
 
@@ -108,7 +112,7 @@ make bapcod-shared
 We have now created the shared object, which is located in `~/local/vrpsolver/bapcod-0.72.2/build/Bapcod/libbapcod-shared.so`.
 Keep this location in mind, because you are going to need it.
 
-### Step 3: Install JuMP and CPLEX
+# Step 3: Install JuMP and CPLEX
 
 This is just as easy as launching the Julia REPL from our newly created Julia `1.5.4` folder and using `Pkg` to install these two packages.
 We also use an environment variable when launching `julia`, because this is required to install the CPLEX package.
@@ -126,7 +130,7 @@ Pkg.add("CPLEX")
 Pkg.add("JuMP")
 ```
 
-### Step 4: Install BaPCodVRPSolver
+# Step 4: Install BaPCodVRPSolver
 
 We launch again the Julia REPL, but we must now use another environment variable which points to the location of the BaPCod library.
 We must also add the Cplex library location to `LD_LIBRARY_PATH`.
@@ -143,12 +147,14 @@ import Pkg
 Pkg.add(url="https://github.com/inria-UFF/BaPCodVRPSolver.jl.git")
 ```
 
-### Conclusions
+# Conclusions
 
 You are now ready to use this amazing piece of software: the VRPSolver!
 The process was a bit convoluted due to two factors:
 1. Lack of support for recent Julia versions.
-In the GitHub repositories, the authors of BaPCodVRPSolver say that:
->Julia versions 1.6 and later are not supported for the moment due to a JuMP issue. Support of Julia 1.6 requires a significant work and will depend on the number of inquiries for it. Please let the contributors of this package know if this support is critical for you.
-I would not say that support is "*critical for me*" (I have never used Julia before) but it would have certainly been nice to have it.
+    In the GitHub repositories, the authors of BaPCodVRPSolver say that:
+
+    >Julia versions 1.6 and later are not supported for the moment due to a JuMP issue. Support of Julia 1.6 requires a significant work and will depend on the number of inquiries for it. Please let the contributors of this package know if this support is critical for you.
+
+    I would not say that support is "*critical for me*" (I have never used Julia before) but it would have certainly been nice to have it.
 2. Reliance on closed-source libraries (RCSP), commercial software (the CPLEX solver) and "free-as-in-free-beer but not free-as-in-free-speech" software (BaPCod).
