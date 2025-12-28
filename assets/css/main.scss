@@ -3,3 +3,32 @@
 
 @import "no-style-please";
 
+pre {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+code.citation {
+    color: black;
+    background: inherit;
+    font-size: 75%;
+}
+
+a {
+    color:blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+button.citation-btn {
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: monospace;
+    cursor: pointer;
+    font-size: 100%;
+    text-decoration: underline;
+    color: blue;
+}
