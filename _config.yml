@@ -1,7 +1,6 @@
-title: Alberto Santini
+title: Home page of Alberto Santini
 email: alberto@santini.in
-description: >-
-  Home page of Alberto Santini.
+description: Home page of Alberto Santini
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://santini.in/" # the base hostname & protocol for your site, e.g. http://example.com
 sass:

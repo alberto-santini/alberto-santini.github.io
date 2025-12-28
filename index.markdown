@@ -1,5 +1,5 @@
 ---
-title: Home Page of Alberto Santini
+title: Alberto Santini
 ---
 
 ## About
