@@ -1,17 +1,11 @@
 ---
-title: Open PhD position at Universitat Pompeu Fabra
+title: Open postdoc position at Universitat Pompeu Fabra
 ---
 
-<div style="text-align: center; border-top: 1px solid black; border-bottom: 1px solid black; padding-top: 1em; padding-bottom: 1em;">
-    <p style="color: #ED4645 !important;">
-        &gt;&gt;&gt; The application period is now over! &lt;&lt;&lt;
-    </p>
-</div>
-
-We are seeking a motivated candidate for a 4-year PhD position in Operational Research at Universitat Pompeu Fabra in Barcelona, Spain.
+We are seeking a motivated candidate for a 12-month post-doctoral position in Operational Research at Universitat Pompeu Fabra in Barcelona, Spain.
 
 <div style="text-align:center; margin-top: 60px; margin-bottom: 80px;">
-  <a style="background: #FF7F50; font-size: 125%; font-weight: bold; padding: 30px; border-radius: 20px; color: white !important; text-decoration: none;" href="https://forms.gle/XeQRfhp9pR4ofQaC6">Apply now!</a>
+  <a style="background: #FF7F50; font-size: 125%; font-weight: bold; padding: 30px; border-radius: 20px; color: white !important; text-decoration: none;" href="https://forms.gle/2Y5XWquvHmKz52Bj9">Apply now!</a>
 </div>
 <div style="text-align: center;">
   <img width="600px" src="../../files/images/bcn_coast.jpg" alt="Barcelona"/>
@@ -19,10 +13,11 @@ We are seeking a motivated candidate for a 4-year PhD position in Operational Re
 
 ## The research project
 
-The student will be financed through the research project "Fairness and social well-being in optimisation models".
+The post-doctoral researcher will be financed through the research project "Fairness and social well-being in optimisation models".
 The overarching theme of this project is incorporating ethical aspects into mathematical models for public resource allocation and labour organisation.
 Specifically, the project aims to include fairness and social well-being considerations in optimisation models through two research lines: fairness in public budget allocation models and workers' well-being in service industry optimisation models.
 
+The researcher will join the [Statistics, Probability and Machine Learning](https://www.upf.edu/web/statistics-group) research group.
 The IP of the project is [Alberto Santini](/files/cv.pdf), associate professor of Operational Research at Universitat Pompeu Fabra.
 Among his publications, the ones that most align with this project are the following:
 * Malaguti, E., Paronuzzi, P., & Santini, A. (2026). [Algorithms and Complexity Results for the 0–1 Knapsack Problem with Group Fairness](/files/papers/malaguti-paronuzzi-santini-2026.pdf).
@@ -38,10 +33,14 @@ We also particularly encourage interdisciplinary research with professors in adj
 
 ## Requirements
 
-* Candidates will have completed a **Master's degree** in Operational Research, Computer Science, Mathematics, Computer Engineering, Economics, or other areas closely related to operational research and mathematical optimisation. Master's students who are expected to complete their degree by Summer 2026 are also eligible to apply.
+* Candidates will have completed a **PhD** in Operational Research, Computer Science, Mathematics, Computer Engineering, Economics, or other areas closely related to operational research and mathematical optimisation.
 * All candidates will be evaluated based on their academic accomplishments, previous research experience, and fit with the project.
 * Candidates must have excellent English and scientific writing skills.
-* Candidates with proven experience in programming and data science are particularly appreciated.
+* Candidates with proven experience in at least one of the following areas are particularly encouraged to apply:
+  * Rostering and scheduling problems
+  * Exact methods based on column generation
+  * Multi-objective optimisation
+  * Bi-level programming and Stackelberg games
 
 <div style="text-align: center;">
   <img width="600px" src="../../files/images/bcn_beach.jpeg" alt="Barcelona"/>
@@ -49,12 +48,11 @@ We also particularly encourage interdisciplinary research with professors in adj
 
 ## What we offer
 
-* A four-year contract with a minimum salary of around 25000 euros per year. This minimum can be increased through financing from other sources, without any additional burden for the student, pending approval from the human resources department.
-* The student is expected to focus solely on research and will not have any teaching or administrative duties. If the student wants to gain teaching experience as a TA, this can also be arranged and is paid separately.
-* The scholarship comes with generous funding to cover research expenses, such as travelling to conferences or stays abroad.
-* Complete fee waiver.
+* A 12-month contract with a minimum salary of around 31200 euros per year.
+* The candidate is expected to focus solely on research and will not have any teaching or administrative duties. If they want to gain teaching experience, this can also possibly be arranged and is paid separately.
+* The scholarship comes with funding to cover research expenses, such as travelling to conferences or stays abroad.
 * UPF offers plenty of opportunities for career growth, including research and soft-skills seminars.
-* The university also has a comprehensive language-learning programme and numerous student associations.
+* The university also has a comprehensive language-learning programme.
 
 <div style="text-align: center;">
   <img width="600px" src="../../files/images/bcn_scc.jpg" alt="Barcelona"/>
@@ -62,16 +60,15 @@ We also particularly encourage interdisciplinary research with professors in adj
 
 ## Timeline
 
-* Please complete the [form](https://forms.gle/XeQRfhp9pR4ofQaC6) as soon as possible and, in any case, before October 19. Remember to include your CV and a recommendation letter.
-* We will be reviewing applications and scheduling interviews continuously. During the interviews, we will explain how to submit your application through the official university system. This system will close on October 22.
+* Please complete the [form](https://forms.gle/2Y5XWquvHmKz52Bj9) as soon as possible and, in any case, before March 27. Remember to include your CV and a recommendation letter.
+* We will be reviewing applications and scheduling interviews continuously. During the interviews, we will explain how to submit your application through the official university system.
 * Around two weeks after the end of the application procedure, a ranked list of candidates will be published, and the highest-ranked candidate will be offered the position.
 * In case of declining candidates, the position will be offered according to the ranking.
-* The contract can start between January and June 2026. The start date can be negotiated within this range (or, in exceptional cases, shortly after).
+* The contract will start at a mutually agreed date in 2026.
 
 <div style="text-align: center;">
   <img width="600px" src="../../files/images/bcn_guell.jpg" alt="Barcelona"/>
 </div>
-
 
 ## More information
 
