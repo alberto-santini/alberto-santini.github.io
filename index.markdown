@@ -44,9 +44,10 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     title={Algorithms and Complexity Results for the 0--1 Knapsack Problem with Group Fairness},
     author={Malaguti, Enrico and Paronuzzi, Paolo and Santini, Alberto},
     journal={Optimization Letters},
-    pubstatus={online},
+    volume=20,
+    pages={577--594},
     doi={10.1007/s11590-025-02252-y},
-    year=2025
+    year=2026
 }{% endraw %}</code></pre>
     </dialog>
     
