@@ -19,27 +19,47 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     * [Preprint](files/papers/santini-vaze-2026.pdf)
 * Santini, A. (2026). Solving Berth Allocation Problems via Selective Graph Colouring.
     * [Preprint](files/papers/santini-2026.pdf)
-* Cavagnini, R., Santini, A., & Schneider, M. (2025). Recent Developments in Location Routing Problems – Deterministic, single-echelon, single-objective, single-period problems. Available (online) in: **European Journal of Operational Research**.    
-    <dialog popover id="citation-cavagnini-santini-schneider-2025">
-        <pre><code class="citation">{% raw %}@article{cavagnini2025lrp,
-    title={Recent Developments in Location Routing Problems --- Deterministic, single-echelon, single-objective, single-period problems},
-    author={Cavagnini, Rossana and Santini, Alberto and Schneider, Michael},
-    journal={European Journal of Operational Research},
-    pubstate={online},
-    doi={10.1016/j.ejor.2025.09.040},
-    year=2025
+    * [Repository](https://github.com/alberto-santini/berth-allocation-problems)
+* Cavagnini, R., Santini, A., Schneider, M., & Siddig, M. (2026). Recent Developments in Location Routing Problems: Deterministic multi-period, multi-echelon, and multi-objective problems.
+    <dialog popover id="citation-cavagnini-santini-schneider-siddig-2026">
+        <pre><code class="citation">{% raw %}@article{cavagnini2026survey2,
+  title={Recent Developments in Location Routing Problems: Deterministic multi-period, multi-echelon, and multi-objective problems},
+  author={Cavagnini, Rossana and Santini, Alberto and Schneider, Michael and Siddig, Murwan},
+  journal={European Journal of Operational Research},
+  year=2026,
+  pubstate={toappear}
 }{% endraw %}</code></pre>
     </dialog>
 
-    * <button class="citation-btn" popovertarget="citation-cavagnini-santini-schneider-2025">
+    * <button class="citation-btn" popovertarget="citation-cavagnini-santini-schneider-siddig-2026">
         Citation
     </button>
-    * [Preprint](files/papers/cavagnini-santini-schneider-2025.pdf)
-    * [Supplemental Material](files/papers/cavagnini-santini-schneider-SM-2025.pdf)
+    * [Preprint](files/papers/cavagnini-santini-schneider-siddig-2026.pdf)
+    * [Supplemental Material](files/papers/cavagnini-santini-schneider-siddig-SM-2026.pdf)
+    * [Repository](https://github.com/alberto-santini/lrp-instances)
+* Cavagnini, R., Santini, A., & Schneider, M. (2026). Recent Developments in Location Routing Problems: Deterministic, single-echelon, single-objective, single-period problems. **European Journal of Operational Research**, 332 (3), pp. 711-729.    
+    <dialog popover id="citation-cavagnini-santini-schneider-2026">
+        <pre><code class="citation">{% raw %}@article{cavagnini2026survey,
+  title={Recent Developments in Location Routing Problems: Deterministic, single-echelon, single-objective, single-period problems},
+  author={Cavagnini, Rossana and Santini, Alberto and Schneider, Michael},
+  journal={European Journal of Operational Research},
+  volume=332,
+  issue=3,
+  pages={711--729},
+  doi={10.1016/j.ejor.2025.09.040},
+  year=2026
+}{% endraw %}</code></pre>
+    </dialog>
+
+    * <button class="citation-btn" popovertarget="citation-cavagnini-santini-schneider-2026">
+        Citation
+    </button>
+    * [Preprint](files/papers/cavagnini-santini-schneider-2026.pdf)
+    * [Supplemental Material](files/papers/cavagnini-santini-schneider-SM-2026.pdf)
     * [Repository](https://github.com/alberto-santini/lrp-instances)
     * [Final version](https://www.sciencedirect.com/science/article/pii/S0377221725007775)
-* Malaguti, E., Paronuzzi, P., & Santini, A. (2025). Algorithms and Complexity Results for the 0–1 Knapsack Problem with Group Fairness. Available (online) in: **Optimization Letters**.
-    <dialog popover id="citation-malaguti-paronuzzi-santini-2025">
+* Malaguti, E., Paronuzzi, P., & Santini, A. (2026). Algorithms and Complexity Results for the 0–1 Knapsack Problem with Group Fairness. **Optimization Letters**, 20, pp. 577-594.
+    <dialog popover id="citation-malaguti-paronuzzi-santini-2026">
         <pre><code class="citation">{% raw %}@article{malaguti2025kpgf,
     title={Algorithms and Complexity Results for the 0--1 Knapsack Problem with Group Fairness},
     author={Malaguti, Enrico and Paronuzzi, Paolo and Santini, Alberto},
@@ -51,10 +71,10 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 }{% endraw %}</code></pre>
     </dialog>
     
-    * <button class="citation-btn" popovertarget="citation-malaguti-paronuzzi-santini-2025">
+    * <button class="citation-btn" popovertarget="citation-malaguti-paronuzzi-santini-2026">
         Citation
     </button>
-    * [Preprint](files/papers/malaguti-paronuzzi-santini-2025.pdf)
+    * [Preprint](files/papers/malaguti-paronuzzi-santini-2026.pdf)
     * [Repository](https://github.com/alberto-santini/kpgf)
     * [Final version](https://link.springer.com/article/10.1007/s11590-025-02252-y)
 * Delle Donne, D., Santini, A., & Archetti, C. (2025). Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches. **European Journal of Operational Research**, 324 (1), pp. 75-91.
