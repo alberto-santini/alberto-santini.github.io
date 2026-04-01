@@ -23,11 +23,11 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Cavagnini, R., Santini, A., Schneider, M., & Siddig, M. (2026). Recent Developments in Location Routing Problems: Deterministic multi-period, multi-echelon, and multi-objective problems.
     <dialog popover id="citation-cavagnini-santini-schneider-siddig-2026">
         <pre><code class="citation">{% raw %}@article{cavagnini2026survey2,
-  title={Recent Developments in Location Routing Problems: Deterministic multi-period, multi-echelon, and multi-objective problems},
-  author={Cavagnini, Rossana and Santini, Alberto and Schneider, Michael and Siddig, Murwan},
-  journal={European Journal of Operational Research},
-  year=2026,
-  pubstate={toappear}
+    title={Recent Developments in Location Routing Problems: Deterministic multi-period, multi-echelon, and multi-objective problems},
+    author={Cavagnini, Rossana and Santini, Alberto and Schneider, Michael and Siddig, Murwan},
+    journal={European Journal of Operational Research},
+    year=2026,
+    pubstate={toappear}
 }{% endraw %}</code></pre>
     </dialog>
 
@@ -40,14 +40,14 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Cavagnini, R., Santini, A., & Schneider, M. (2026). Recent Developments in Location Routing Problems: Deterministic, single-echelon, single-objective, single-period problems. **European Journal of Operational Research**, 332 (3), pp. 711-729.    
     <dialog popover id="citation-cavagnini-santini-schneider-2026">
         <pre><code class="citation">{% raw %}@article{cavagnini2026survey,
-  title={Recent Developments in Location Routing Problems: Deterministic, single-echelon, single-objective, single-period problems},
-  author={Cavagnini, Rossana and Santini, Alberto and Schneider, Michael},
-  journal={European Journal of Operational Research},
-  volume=332,
-  issue=3,
-  pages={711--729},
-  doi={10.1016/j.ejor.2025.09.040},
-  year=2026
+    title={Recent Developments in Location Routing Problems: Deterministic, single-echelon, single-objective, single-period problems},
+    author={Cavagnini, Rossana and Santini, Alberto and Schneider, Michael},
+    journal={European Journal of Operational Research},
+    volume=332,
+    issue=3,
+    pages={711--729},
+    doi={10.1016/j.ejor.2025.09.040},
+    year=2026
 }{% endraw %}</code></pre>
     </dialog>
 
