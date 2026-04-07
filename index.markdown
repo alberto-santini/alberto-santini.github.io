@@ -26,6 +26,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     title={Recent Developments in Location Routing Problems: Deterministic multi-period, multi-echelon, and multi-objective problems},
     author={Cavagnini, Rossana and Santini, Alberto and Schneider, Michael and Siddig, Murwan},
     journal={European Journal of Operational Research},
+    doi={10.1016/j.ejor.2026.04.001},
     year=2026,
     pubstate={toappear}
 }{% endraw %}</code></pre>
