@@ -20,7 +20,7 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 * Santini, A. (2026). Solving Berth Allocation Problems via Selective Graph Colouring.
     * [Preprint](files/papers/santini-2026.pdf)
     * [Repository](https://github.com/alberto-santini/berth-allocation-problems)
-* Cavagnini, R., Santini, A., Schneider, M., & Siddig, M. (2026). Recent Developments in Location Routing Problems: Deterministic multi-period, multi-echelon, and multi-objective problems.
+* Cavagnini, R., Santini, A., Schneider, M., & Siddig, M. (2026). Recent Developments in Location Routing Problems: Deterministic multi-period, multi-echelon, and multi-objective problems. **European Journal of Operational research**.
     <dialog popover id="citation-cavagnini-santini-schneider-siddig-2026">
         <pre><code class="citation">{% raw %}@article{cavagnini2026survey2,
     title={Recent Developments in Location Routing Problems: Deterministic multi-period, multi-echelon, and multi-objective problems},
