@@ -39,10 +39,10 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
     * [Supplemental Material](files/papers/cavagnini-santini-schneider-siddig-SM-2026.pdf)
     * [Repository](https://github.com/alberto-santini/lrp-instances)
     * [Final version](https://www.sciencedirect.com/science/article/abs/pii/S0377221726003164)
-* Cavagnini, R., Santini, A., & Schneider, M. (2026). Recent Developments in Location Routing Problems: Deterministic, single-echelon, single-objective, single-period problems. **European Journal of Operational Research**, 332 (3), pp. 711-729.    
+* Cavagnini, R., Santini, A., & Schneider, M. (2026). Recent Developments in Location Routing Problems: Deterministic single-echelon, single-objective, single-period problems. **European Journal of Operational Research**, 332 (3), pp. 711-729.    
     <dialog popover id="citation-cavagnini-santini-schneider-2026">
         <pre><code class="citation">{% raw %}@article{cavagnini2026survey,
-    title={Recent Developments in Location Routing Problems: Deterministic, single-echelon, single-objective, single-period problems},
+    title={Recent Developments in Location Routing Problems: Deterministic single-echelon, single-objective, single-period problems},
     author={Cavagnini, Rossana and Santini, Alberto and Schneider, Michael},
     journal={European Journal of Operational Research},
     volume=332,
