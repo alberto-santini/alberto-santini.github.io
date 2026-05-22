@@ -74,11 +74,12 @@ We also particularly encourage interdisciplinary research with professors in adj
 
 ## Timeline
 
-* Please complete the [form](https://forms.gle/2Y5XWquvHmKz52Bj9) as soon as possible and, in any case, before March 27. Remember to include your CV and a recommendation letter.
-* We will be reviewing applications and scheduling interviews continuously. During the interviews, we will explain how to submit your application through the official university system.
-* Around two weeks after the end of the application procedure, a ranked list of candidates will be published, and the highest-ranked candidate will be offered the position.
+* The official application was published on 21 May 2026 on the [university's website](https://www.upf.edu/web/econ/postdoctoral-positions).
+* We will be reviewing applications and scheduling interviews continuously.
+* The deadline is 06 July 2026.
+* Around two weeks after the deadline, a ranked list of candidates will be published, and the highest-ranked candidate will be offered the position.
 * In case of declining candidates, the position will be offered according to the ranking.
-* The contract will start at a mutually agreed date in 2026.
+* The contract will start at a mutually agreed date in 2026, ideally on 01 October 2026.
 
 <div style="text-align: center;">
   <img width="600px" src="../../files/images/bcn_guell.jpg" alt="Barcelona"/>
