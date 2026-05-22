@@ -5,8 +5,22 @@ title: Open postdoc position at Universitat Pompeu Fabra
 We are seeking a motivated candidate for a 12-month post-doctoral position in Operational Research at Universitat Pompeu Fabra in Barcelona, Spain.
 
 <div style="text-align:center; margin-top: 60px; margin-bottom: 80px;">
-  <a style="background: #FF7F50; font-size: 125%; font-weight: bold; padding: 30px; border-radius: 20px; color: white !important; text-decoration: none;" href="https://forms.gle/2Y5XWquvHmKz52Bj9">Apply now!</a>
+  <a style="background: #FF7F50; font-size: 125%; font-weight: bold; padding: 30px; border-radius: 20px; color: white !important; text-decoration: none;" href="mailto:aleix.cortes@upf.edu?cc=alberto.santini@upf.edu&subject=ECON-INV-INDF-2026-01&body=Attach%20your%20application%20material">Apply now!</a>
 </div>
+
+<div style="border: 1px solid #FF7F50; border-radius: 20px; padding: 30px; margin-bottom: 30px;">
+  <p>Your application package sent via email through the above button should include:</p>
+  <ol>
+    <li>A motivation letter with a description of your main research interests.</li>
+    <li>Complete academic curriculum.</li>
+    <li>A recently-published paper in which you have had a major role.</li>
+    <li>At least one recommendation letter.</li>
+    <li>Complete academic transcript.</li>
+    <li>Copy of an ID.</li>
+  </ol>
+  <p>Please, do not change the email subject, which should be ECON-INV-INDF-2026-01.</p>
+</div>
+
 <div style="text-align: center;">
   <img width="600px" src="../../files/images/bcn_coast.jpg" alt="Barcelona"/>
 </div>
