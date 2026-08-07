@@ -15,7 +15,20 @@ During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R
 
 ## Publications
 
-* Santini, A., & Vaze, V. (2026). Integrated Schedule Planning for Regional Airlines Using Column Generation.
+* Santini, A., & Vaze, V. (2026). Integrated Schedule Planning for Regional Airlines Using Column Generation. Accepted, to appear in: **Transportation Science**.
+    <dialog popover id="citation-santini-vaze-2026">
+        <pre><code class="citation">{% raw %}@article{santini2026airlines,
+    title={Integrated Schedule Planning for Regional Airlines Using Column Generation},
+    author={Santini, Alberto and Vaze, Vikrant},
+    journal={Transportation Science},
+    pubstate={toappear},
+    year=2026
+}{% endraw %}</code></pre>
+    </dialog>
+
+    * <button class="citation-btn" popovertarget="citation-santini-vaze-2026">
+        Citation
+    </button>
     * [Preprint](files/papers/santini-vaze-2026.pdf)
 * Santini, A. (2026). Solving Berth Allocation Problems via Selective Graph Colouring.
     * [Preprint](files/papers/santini-2026.pdf)
