@@ -5,8 +5,6 @@ title: Alberto Santini
 ## About
 
 I am an associate professor of Operational Research and a "Ramon y Cajal" fellow at [Universitat Pompeu Fabra](https://www.upf.edu) in Barcelona, Spain.
-I am also an affiliate professor at the [Barcelona Graduate School of Mathematics](https://bgsmath.cat) and the [Data Science Centre](https://datascience.bse.eu/) of the [Barcelona School of Economics](https://bse.eu).
-During 2025-2027, I am coordinating the [Transportation group of the Spanish O.R. Society](https://seio-transporte.github.io/).
 
 * [Curriculum Vitæ](files/cv.pdf)
 * [Google Scholar Profile](https://scholar.google.it/citations?user=4y_0xGoAAAAJ)
