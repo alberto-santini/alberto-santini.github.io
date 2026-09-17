@@ -113,6 +113,7 @@ I am an associate professor of Operational Research and a "Ramon y Cajal" fellow
     * [Supplemental Material](files/papers/delle-donne-santini-archetti-SM-2025.pdf)
     * [Repository](https://github.com/alberto-santini/public-transport-lmd)
     * [Final version](https://www.sciencedirect.com/science/article/pii/S0377221724009901)
+    * Press coverage: [Can cities put freight on public transport?](https://cities-today.com/can-cities-put-freight-on-public-transport/), Cities Today, 2026.
 * Mandal, M. P., Santini, A., & Archetti, C. (2025). Tactical workforce sizing and scheduling decisions for last-mile delivery. **European Journal of Operational Research**, 323 (1), pp. 153-169.
     <dialog popover id="citation-mandal-santini-archetti-2025">
         <pre><code class="citation">{% raw %}@article{mandal2025stability,
