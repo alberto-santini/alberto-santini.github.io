@@ -13,14 +13,15 @@ I am an associate professor of Operational Research and a "Ramon y Cajal" fellow
 
 ## Publications
 
-* Santini, A., & Vaze, V. (2026). Integrated Schedule Planning for Regional Airlines Using Column Generation. Accepted, to appear in: **Transportation Science**.
+* Santini, A., & Vaze, V. (2026). Integrated Schedule Planning for Regional Airlines Using Column Generation. Available (in advance): **Transportation Science**.
     <dialog popover id="citation-santini-vaze-2026">
         <pre><code class="citation">{% raw %}@article{santini2026airlines,
     title={Integrated Schedule Planning for Regional Airlines Using Column Generation},
     author={Santini, Alberto and Vaze, Vikrant},
     journal={Transportation Science},
-    pubstate={toappear},
-    year=2026
+    pubstate={inadvance},
+    year=2026,
+    doi={10.1287/trsc.2025.0056}
 }{% endraw %}</code></pre>
     </dialog>
 
@@ -28,6 +29,7 @@ I am an associate professor of Operational Research and a "Ramon y Cajal" fellow
         Citation
     </button>
     * [Preprint](files/papers/santini-vaze-2026.pdf)
+    * [Final version](https://pubsonline.informs.org/doi/full/10.1287/trsc.2025.0056)
 * Santini, A. (2026). Solving Berth Allocation Problems via Selective Graph Colouring.
     * [Preprint](files/papers/santini-2026.pdf)
     * [Repository](https://github.com/alberto-santini/berth-allocation-problems)
