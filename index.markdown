@@ -30,7 +30,7 @@ I am an associate professor of Operational Research and a "Ramon y Cajal" fellow
     </button>
     * [Preprint](files/papers/santini-vaze-2026.pdf)
     * [Final version](https://pubsonline.informs.org/doi/full/10.1287/trsc.2025.0056)
-* Santini, A. (2026). Solving Berth Allocation Problems via Selective Graph Colouring.
+* Santini, A. (2026). Solving Berth Allocation Problems via Stable Sets.
     * [Preprint](files/papers/santini-2026.pdf)
     * [Repository](https://github.com/alberto-santini/berth-allocation-problems)
 * Cavagnini, R., Santini, A., Schneider, M., & Siddig, M. (2026). Recent Developments in Location Routing Problems: Deterministic multi-period, multi-echelon, and multi-objective problems. **European Journal of Operational research**, 334 (3), pp. 705-719.
