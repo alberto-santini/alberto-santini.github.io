@@ -391,7 +391,7 @@ I am an associate professor of Operational Research and a "Ramon y Cajal" fellow
     * [Repository](https://github.com/alberto-santini/adaptive-large-neighbourhood-search/)
     * [Final version](https://link.springer.com/article/10.1007/s10732-018-9377-x)
 * Malaguti, E., Martello, S., & Santini, A. (2018). The Traveling Salesman Problem with Pickups, Deliveries, and Draft Limits. **Omega**, 74, pp. 50–58.
-    <dialog popover id="citation-malaguti-martello-santini-2017">
+    <dialog popover id="citation-malaguti-martello-santini-2018">
         <pre><code class="citation">{% raw %}@article{malaguti2018travelling,
     title={The {Traveling Salesman Problem} with Pickups, Deliveries, and Draft Limits},
     author={Malaguti, Enrico and Martello, Silvano and Santini, Alberto},
@@ -403,10 +403,10 @@ I am an associate professor of Operational Research and a "Ramon y Cajal" fellow
 }{% endraw %}</code></pre>
     </dialog>
 
-    * <button class="citation-btn" popovertarget="citation-malaguti-martello-santini-2017">
+    * <button class="citation-btn" popovertarget="citation-malaguti-martello-santini-2018">
         Citation
     </button>
-    * [Preprint](files/papers/malaguti-martello-santini-2017.pdf)
+    * [Preprint](files/papers/malaguti-martello-santini-2018.pdf)
     * [Repository](https://github.com/alberto-santini/tsppddl/)
     * [Final version](https://www.sciencedirect.com/science/article/abs/pii/S0305048317300518)
 * Furini, F., Malaguti, E., & Santini, A. (2018). An Exact Algorithm for the Partition Coloring Problem. **Computers & Operations Research**, 92, pp. 170–181.
